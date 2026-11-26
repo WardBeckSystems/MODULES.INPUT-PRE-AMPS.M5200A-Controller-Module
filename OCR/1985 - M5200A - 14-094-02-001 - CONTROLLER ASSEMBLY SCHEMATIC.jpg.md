@@ -22,7 +22,7 @@ Wiki page: [M5200A](../../../../PAGES/M5200A.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 192 connected wire groups from 2,831 runs
 
-Every curve, box, word and wire group: [1985 - M5200A - 14-094-02-001 - CONTROLLER ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M5200A%20-%2014-094-02-001%20-%20CONTROLLER%20ASSEMBLY%20SCHEMATIC%20(traced).json) (the CAD file: `1985 - M5200A - 14-094-02-001 - CONTROLLER ASSEMBLY SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M5200A - 14-094-02-001 - CONTROLLER ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M5200A%20-%2014-094-02-001%20-%20CONTROLLER%20ASSEMBLY%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1985 - M5200A - 14-094-02-001 - CONTROLLER ASSEMBLY SCHEMATIC (traced).dxf`).
 
 ## Full text
 

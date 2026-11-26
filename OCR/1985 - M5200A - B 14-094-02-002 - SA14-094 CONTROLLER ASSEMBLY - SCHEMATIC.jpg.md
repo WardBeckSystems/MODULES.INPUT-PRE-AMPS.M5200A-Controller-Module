@@ -21,7 +21,7 @@ Wiki page: [M5200A](../../../../PAGES/M5200A.md)
 - **Closed boxes:** 103
 - **Wiring (first pass):** 203 connected wire groups from 2,871 runs
 
-Every curve, box, word and wire group: [1985 - M5200A - B 14-094-02-002 - SA14-094 CONTROLLER ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M5200A%20-%20B%2014-094-02-002%20-%20SA14-094%20CONTROLLER%20ASSEMBLY%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1985 - M5200A - B 14-094-02-002 - SA14-094 CONTROLLER ASSEMBLY - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M5200A - B 14-094-02-002 - SA14-094 CONTROLLER ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M5200A%20-%20B%2014-094-02-002%20-%20SA14-094%20CONTROLLER%20ASSEMBLY%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1985 - M5200A - B 14-094-02-002 - SA14-094 CONTROLLER ASSEMBLY - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [M5200A](../../../../PAGES/M5200A.md)
 - **Closed boxes:** 81
 - **Wiring (first pass):** 541 connected wire groups from 3,761 runs
 
-Every curve, box, word and wire group: [1985 - M5200A - 14-094-02-001 - TAACIJIH PORT CIL UJJ RIOZ RIOJ (traced).json](../SCHEMATICS/1985%20-%20M5200A%20-%2014-094-02-001%20-%20TAACIJIH%20PORT%20CIL%20UJJ%20RIOZ%20RIOJ%20(traced).json) (the CAD file: `1985 - M5200A - 14-094-02-001 - TAACIJIH PORT CIL UJJ RIOZ RIOJ (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M5200A - 14-094-02-001 - TAACIJIH PORT CIL UJJ RIOZ RIOJ (traced).json](../SCHEMATICS/1985%20-%20M5200A%20-%2014-094-02-001%20-%20TAACIJIH%20PORT%20CIL%20UJJ%20RIOZ%20RIOJ%20%28traced%29.json) (the CAD file: `1985 - M5200A - 14-094-02-001 - TAACIJIH PORT CIL UJJ RIOZ RIOJ (traced).dxf`).
 
 ## Full text
 

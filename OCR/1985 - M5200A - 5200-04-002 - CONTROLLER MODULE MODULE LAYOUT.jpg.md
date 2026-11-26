@@ -19,7 +19,7 @@ Wiki page: [M5200A](../../../../PAGES/M5200A.md)
 - **Circles and arcs:** 14 circles, 0 arcs; largest r 3.4 @ (182.8, 30.7), r 3.4 @ (218.6, 31.1), r 3.4 @ (165.3, 30.5), r 3.3 @ (209.0, 31.1)
 - **Closed boxes:** 19
 
-Every curve, box, word and wire group: [1985 - M5200A - 5200-04-002 - CONTROLLER MODULE MODULE LAYOUT (traced).json](../MECHANICAL/1985%20-%20M5200A%20-%205200-04-002%20-%20CONTROLLER%20MODULE%20MODULE%20LAYOUT%20(traced).json) (the CAD file: `1985 - M5200A - 5200-04-002 - CONTROLLER MODULE MODULE LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M5200A - 5200-04-002 - CONTROLLER MODULE MODULE LAYOUT (traced).json](../MECHANICAL/1985%20-%20M5200A%20-%205200-04-002%20-%20CONTROLLER%20MODULE%20MODULE%20LAYOUT%20%28traced%29.json) (the CAD file: `1985 - M5200A - 5200-04-002 - CONTROLLER MODULE MODULE LAYOUT (traced).dxf`).
 
 ## Full text
 

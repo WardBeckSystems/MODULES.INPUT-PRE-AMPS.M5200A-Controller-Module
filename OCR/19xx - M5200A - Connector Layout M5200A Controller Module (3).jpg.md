@@ -18,6 +18,18 @@ Manual page with connector J1 to J6 pinout for the M5200A controller module.
 - **Size:** 208,693 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 305 × 432 mm, 1240 × 1753 px traced (0.246 mm/px)
+- **Ink extent:** 10–305 mm across, 20–432 mm up
+- **Outlines:** line 215 rings, 3,029 straight (8,570 mm) / 475 curved (884 mm); text 500 rings, 3,741 straight (4,941 mm) / 1,042 curved (1,733 mm)
+- **Circles and arcs:** 3 circles, 0 arcs; largest r 3.7 @ (159.5, 130.1), r 3.6 @ (158.3, 318.5), r 1.4 @ (156.4, 160.4)
+- **Closed boxes:** 28
+- **Dots (junctions):** 4
+- **Words (OCR):** 64 in 53 lines: WARD-BECK SYSTEMS · LTD · CONNECTOR LAYoUT · MSZOQA CONTROLLER MODULE · NOTE: · LEGEND: · CONNECTORS · NC · NOT CONNECTED · JI · To J6 · IC : INTERNALL Y CONNECTED
+
+Every curve, box, word and wire group: [19xx - M5200A - Connector Layout M5200A Controller Module (3) (traced).json](../PINOUTS/19xx%20-%20M5200A%20-%20Connector%20Layout%20M5200A%20Controller%20Module%20%283%29%20%28traced%29.json) (the CAD file: `19xx - M5200A - Connector Layout M5200A Controller Module (3) (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

@@ -18,6 +18,18 @@ Manual page with connector J7 pinout for the M5200A controller module.
 - **Size:** 226,828 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 305 × 432 mm, 1240 × 1753 px traced (0.246 mm/px)
+- **Ink extent:** 1–306 mm across, 21–432 mm up
+- **Outlines:** line 222 rings, 3,393 straight (9,540 mm) / 512 curved (870 mm); text 467 rings, 3,723 straight (4,564 mm) / 970 curved (1,559 mm)
+- **Circles and arcs:** 3 circles, 0 arcs; largest r 3.7 @ (161.1, 127.8), r 3.7 @ (158.2, 316.4), r 1.8 @ (155.8, 176.9)
+- **Closed boxes:** 34
+- **Dots (junctions):** 4
+- **Words (OCR):** 50 in 39 lines: WAAD-BECK SYSTeMS LTD · CONNECTOR LAYoUT · M52O0A CONTROLLER MODULE · LEGEND: · Janoj · NC:NOT · CONNECTED · J7 · IC : INTERNALL Y CONNECTED · EXTERNAL · EXTERNAL · INPuTS
+
+Every curve, box, word and wire group: [19xx - M5200A - Connector Layout M5200A Controller Module J7 (traced).json](../PINOUTS/19xx%20-%20M5200A%20-%20Connector%20Layout%20M5200A%20Controller%20Module%20J7%20%28traced%29.json) (the CAD file: `19xx - M5200A - Connector Layout M5200A Controller Module J7 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

@@ -19,7 +19,7 @@ Wiki page: [M5200A](../../../../PAGES/M5200A.md)
 - **Circles and arcs:** 7 circles, 0 arcs; largest r 2.7 @ (271.5, 170.7), r 2.3 @ (377.4, 171.0), r 2.2 @ (359.1, 170.9), r 2.0 @ (386.7, 171.1)
 - **Closed boxes:** 6
 
-Every curve, box, word and wire group: [1985 - M5200A - 14-096-06-001 - ASSEMBLY COMPONENT LAYOUT (traced).json](../SCHEMATICS/1985%20-%20M5200A%20-%2014-096-06-001%20-%20ASSEMBLY%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1985 - M5200A - 14-096-06-001 - ASSEMBLY COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M5200A - 14-096-06-001 - ASSEMBLY COMPONENT LAYOUT (traced).json](../SCHEMATICS/1985%20-%20M5200A%20-%2014-096-06-001%20-%20ASSEMBLY%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1985 - M5200A - 14-096-06-001 - ASSEMBLY COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 
