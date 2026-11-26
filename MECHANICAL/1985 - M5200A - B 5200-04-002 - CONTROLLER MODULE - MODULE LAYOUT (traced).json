@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M5200A/MECHANICAL/1985 - M5200A - B 5200-04-002 - CONTROLLER MODULE - MODULE LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/e3ab2458ce6c6789.svg",
+ "sheet": {
+  "number": "5200-04-002",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.9, 0.2, 432.0, 291.7],
+ "outlines": {
+  "line": {"rings": 700, "straight": {"n": 6261, "mm": 14397.3}, "curved": {"n": 971, "mm": 1373.7}},
+  "text": {"rings": 160, "straight": {"n": 1108, "mm": 1066.8}, "curved": {"n": 310, "mm": 403.9}}
+ },
+ "circles": [
+  {"c": [190.9, 17.3], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [161.0, 16.8], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [173.8, 16.9], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [217.5, 17.8], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [208.4, 17.6], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [226.6, 18.0], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [249.6, 264.6], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [206.3, 263.9], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [118.0, 195.0], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [92.6, 194.6], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [187.6, 197.8], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [117.0, 250.0], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [412.6, 31.8], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [173.4, 44.8], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [257.0, 191.1], "r": 0.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [92.2, 271.8, 105.8, 274.2], "w": 13.6, "h": 2.4, "from": "ring"},
+  {"mm": [106.2, 258.2, 115.7, 261.5], "w": 9.5, "h": 3.2, "from": "ring"},
+  {"mm": [94.3, 121.3, 96.7, 130.0], "w": 2.4, "h": 8.6, "from": "ring"},
+  {"mm": [252.4, 122.0, 287.4, 126.5], "w": 35.0, "h": 4.5, "from": "ring"},
+  {"mm": [3.9, 109.9, 6.9, 118.3], "w": 3.0, "h": 8.4, "from": "ring"},
+  {"mm": [282.8, 90.1, 296.4, 109.9], "w": 13.6, "h": 19.8, "from": "ring"},
+  {"mm": [305.3, 36.5, 315.2, 58.9], "w": 9.9, "h": 22.5, "from": "ring"},
+  {"mm": [65.8, 32.0, 75.3, 54.2], "w": 9.4, "h": 22.2, "from": "ring"},
+  {"mm": [186.5, 40.2, 193.9, 49.4], "w": 7.3, "h": 9.3, "from": "ring"},
+  {"mm": [3.9, 35.8, 7.2, 44.3], "w": 3.3, "h": 8.4, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [198.7, 95.3], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout 5200-04-002, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 4–432 mm across, 0–292 mm up",
+  "- **Outlines:** line 700 rings, 6,261 straight (14,397 mm) / 971 curved (1,374 mm); text 160 rings, 1,108 straight (1,067 mm) / 310 curved (404 mm)",
+  "- **Circles and arcs:** 15 circles, 0 arcs; largest r 3.3 @ (190.9, 17.3), r 3.3 @ (161.0, 16.8), r 3.3 @ (173.8, 16.9), r 3.2 @ (217.5, 17.8)",
+  "- **Closed boxes:** 10",
+  "- **Dots (junctions):** 1"
+ ]
+}

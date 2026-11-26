@@ -1,0 +1,110 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
+ "page": 33,
+ "version": 1,
+ "trace": "_traces/6c20a764690b138b-p33.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1992, 2000],
+  "mm": [430.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "33", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [39.5, 0.2, 430.1, 431.8],
+ "outlines": {
+  "line": {"rings": 75, "straight": {"n": 1663, "mm": 4413.3}, "curved": {"n": 261, "mm": 489.8}},
+  "text": {"rings": 278, "straight": {"n": 2799, "mm": 3474.7}, "curved": {"n": 727, "mm": 1199.4}},
+  "tb": {"rings": 14, "straight": {"n": 212, "mm": 470.2}, "curved": {"n": 33, "mm": 63.2}}
+ },
+ "circles": [
+  {"c": [116.9, 321.7], "r": 6.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [259.8, 321.8], "r": 4.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [116.9, 321.7], "r": 4.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [240.5, 321.7], "r": 4.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.2},
+  {"c": [89.7, 321.7], "r": 4.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1}
+ ],
+ "boxes": [
+  {"mm": [175.1, 301.6, 201.7, 341.9], "w": 26.6, "h": 40.3, "from": "ring"},
+  {"mm": [224.5, 311.7, 388.7, 331.9], "w": 164.1, "h": 20.2, "from": "ring", "words": ["DSI", "DS2", "DSS", "RD", "GN", "CN"]}
+ ],
+ "text": {
+  "words": 44,
+  "lines": [
+   {"mm": [252.2, 350.6, 263.6, 358.3], "text": "220"},
+   {"mm": [296.4, 340.9, 377.4, 356.5], "text": "14-096 WBS"},
+   {"mm": [184.4, 347.8, 190.9, 353.1], "text": "U1"},
+   {"mm": [244.6, 349.5, 251.5, 354.3], "text": "RS"},
+   {"mm": [174.9, 343.3, 201.9, 349.8], "text": "5082-7850"},
+   {"mm": [244.4, 342.2, 262.8, 350.8], "text": "Rz 270"},
+   {"mm": [51.2, 337.9, 73.2, 344.8], "text": "MASTER"},
+   {"mm": [244.4, 335.1, 263.2, 343.7], "text": "RI 270"},
+   {"mm": [301.6, 337.2, 325.4, 345.9], "text": "ISSUE"},
+   {"mm": [353.2, 333.8, 381.3, 341.9], "text": "CANADA"},
+   {"mm": [107.3, 331.4, 125.7, 338.4], "text": "RESET"},
+   {"mm": [97.6, 323.9, 105.6, 330.3], "text": "NO"},
+   {"mm": [265.1, 321.9, 274.8, 327.2], "text": "DSI"},
+   {"mm": [304.0, 321.9, 313.3, 327.2], "text": "DS2"},
+   {"mm": [340.7, 321.9, 350.4, 327.2], "text": "DSS"},
+   {"mm": [266.2, 317.6, 273.8, 323.1], "text": "RD"},
+   {"mm": [305.1, 317.6, 312.0, 323.1], "text": "GN"},
+   {"mm": [341.8, 317.6, 349.3, 323.1], "text": "CN"},
+   {"mm": [97.6, 310.5, 106.2, 316.9], "text": "NC"},
+   {"mm": [112.1, 305.3, 121.1, 310.6], "text": "Swz"},
+   {"mm": [250.9, 304.0, 269.9, 310.5], "text": "SLAVE"},
+   {"mm": [282.8, 304.0, 359.9, 310.5], "text": "MotheR BD DAUGHTER BD"},
+   {"mm": [52.9, 299.7, 71.2, 306.1], "text": "SLAVE"},
+   {"mm": [110.1, 300.5, 122.4, 307.0], "text": "8121"},
+   {"mm": [250.9, 298.4, 269.2, 304.9], "text": "TALLY"},
+   {"mm": [283.9, 298.4, 312.6, 304.9], "text": "POWER ON"},
+   {"mm": [326.0, 298.4, 355.2, 304.9], "text": "POwER ON"},
+   {"mm": [49.9, 289.7, 74.1, 296.2], "text": "Z101KOIc"},
+   {"mm": [57.4, 294.5, 67.1, 299.8], "text": "SV1"},
+   {"mm": [278.1, 76.4, 314.4, 86.7], "text": "WBS"},
+   {"mm": [322.1, 77.3, 430.1, 86.9], "text": "WARD-BECK SYSTEME"},
+   {"mm": [325.1, 55.9, 380.6, 65.8], "text": "SA14-096"},
+   {"mm": [303.6, 43.0, 349.3, 52.6], "text": "DISPLA Y"},
+   {"mm": [353.2, 43.4, 410.4, 53.0], "text": "ASSEMBLY"},
+   {"mm": [299.7, 32.2, 367.0, 41.8], "text": "COMPONENT"},
+   {"mm": [370.3, 32.8, 413.4, 43.1], "text": "LAYout"},
+   {"mm": [282.2, 14.9, 367.7, 25.9], "text": "14-096-06-00 1"},
+   {"mm": [409.3, 16.0, 428.1, 25.6], "text": "ISS"}
+  ]
+ },
+ "title_block": {
+  "mm": [269.6, 67.7, 430.1, 359.7],
+  "from": "title-block words (training set)",
+  "text": [
+   "14-096 WBS",
+   "ISSUE",
+   "CANADA",
+   "DSI",
+   "DS2",
+   "DSS",
+   "RD",
+   "GN",
+   "CN",
+   "MotheR BD DAUGHTER BD",
+   "POWER ON",
+   "POwER ON",
+   "WBS",
+   "WARD-BECK SYSTEME"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 430 × 432 mm, 1992 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 40–430 mm across, 0–432 mm up",
+  "- **Outlines:** line 75 rings, 1,663 straight (4,413 mm) / 261 curved (490 mm); text 278 rings, 2,799 straight (3,475 mm) / 727 curved (1,199 mm); tb 14 rings, 212 straight (470 mm) / 33 curved (63.2 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 6.9 @ (116.9, 321.7), r 4.7 @ (259.8, 321.8), r 4.1 @ (116.9, 321.7), r 4.0 @ (240.5, 321.7)",
+  "- **Closed boxes:** 2; named: DSI DS2 DSS RD GN CN",
+  "- **Words (OCR):** 44 in 38 lines: 220 · 14-096 WBS · U1 · RS · 5082-7850 · Rz 270 · MASTER · RI 270 · ISSUE · CANADA · RESET · NO",
+  "- **Title block:** (270, 68)–(430, 360) mm: 14-096 WBS · ISSUE · CANADA · DSI · DS2 · DSS · RD · GN · CN · MotheR BD DAUGHTER BD · POWER ON · POwER ON · WBS · WARD-BECK SYSTEME"
+ ]
+}

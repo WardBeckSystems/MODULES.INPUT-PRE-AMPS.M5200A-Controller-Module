@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/6c20a764690b138b-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1433, 2000],
+  "mm": [309.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [17.8, 19.9, 295.8, 418.8],
+ "outlines": {
+  "line": {"rings": 183, "straight": {"n": 2899, "mm": 7730.0}, "curved": {"n": 557, "mm": 784.7}},
+  "text": {"rings": 186, "straight": {"n": 1801, "mm": 1916.9}, "curved": {"n": 497, "mm": 698.1}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [238.6, 275.4, 255.8, 314.8], "w": 17.3, "h": 39.3, "from": "ring"},
+  {"mm": [156.1, 132.1, 175.3, 291.2], "w": 19.2, "h": 159.1, "from": "ring"},
+  {"mm": [238.6, 223.7, 255.8, 263.0], "w": 17.3, "h": 39.3, "from": "ring"},
+  {"mm": [238.6, 171.9, 256.0, 211.2], "w": 17.4, "h": 39.3, "from": "ring"},
+  {"mm": [238.6, 119.8, 255.8, 159.3], "w": 17.3, "h": 39.5, "from": "ring"},
+  {"mm": [238.6, 68.0, 256.0, 107.5], "w": 17.4, "h": 39.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 2,
+  "lines": [{"mm": [18.8, 412.4, 133.4, 420.5], "text": "WAAD-BECK SYSTEMS LTD"}, {"mm": [150.3, 19.2, 161.1, 24.5], "text": "3-4"}]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 309 × 432 mm, 1433 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 18–296 mm across, 20–419 mm up",
+  "- **Outlines:** line 183 rings, 2,899 straight (7,730 mm) / 557 curved (785 mm); text 186 rings, 1,801 straight (1,917 mm) / 497 curved (698 mm)",
+  "- **Closed boxes:** 6",
+  "- **Words (OCR):** 2 in 2 lines: WAAD-BECK SYSTEMS LTD · 3-4"
+ ]
+}

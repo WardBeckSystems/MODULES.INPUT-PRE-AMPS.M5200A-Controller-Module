@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
+ "page": 17,
+ "version": 1,
+ "trace": "_traces/6c20a764690b138b-p17.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1470, 2000],
+  "mm": [317.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "17", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.4, 27.5, 286.7, 417.0],
+ "outlines": {
+  "line": {"rings": 2, "straight": {"n": 622, "mm": 2507.0}, "curved": {"n": 47, "mm": 73.8}},
+  "text": {"rings": 86, "straight": {"n": 806, "mm": 926.3}, "curved": {"n": 186, "mm": 288.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [10.8, 410.6, 125.2, 418.3], "text": "WAAD-BeCK Systems LTD"},
+   {"mm": [92.8, 229.3, 201.9, 236.4], "text": "SA14-094 CONTROLLER ASSE MBLY"},
+   {"mm": [205.8, 53.5, 224.5, 60.0], "text": "Issue"},
+   {"mm": [232.1, 47.1, 246.6, 54.0], "text": "1985"},
+   {"mm": [205.3, 45.6, 229.3, 53.7], "text": "August"}
+  ]
+ },
+ "title_block": {
+  "mm": [4.4, 44.8, 230.9, 427.0],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BeCK Systems LTD", "SA14-094 CONTROLLER ASSE MBLY", "Issue", "August"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 317 × 432 mm, 1470 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–287 mm across, 28–417 mm up",
+  "- **Outlines:** line 2 rings, 622 straight (2,507 mm) / 47 curved (73.8 mm); text 86 rings, 806 straight (926 mm) / 186 curved (289 mm)",
+  "- **Words (OCR):** 8 in 5 lines: WAAD-BeCK Systems LTD · SA14-094 CONTROLLER ASSE MBLY · Issue · 1985 · August",
+  "- **Title block:** (4, 45)–(231, 427) mm: WAAD-BeCK Systems LTD · SA14-094 CONTROLLER ASSE MBLY · Issue · August"
+ ]
+}

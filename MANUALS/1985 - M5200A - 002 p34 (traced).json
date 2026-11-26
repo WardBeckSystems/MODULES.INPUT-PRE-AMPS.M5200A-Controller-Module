@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
+ "page": 34,
+ "version": 1,
+ "trace": "_traces/6c20a764690b138b-p34.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1427, 2000],
+  "mm": [308.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "34", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.6, 14.2, 296.6, 424.5],
+ "outlines": {
+  "line": {"rings": 3, "straight": {"n": 772, "mm": 2624.4}, "curved": {"n": 53, "mm": 89.0}},
+  "text": {"rings": 104, "straight": {"n": 899, "mm": 1167.2}, "curved": {"n": 214, "mm": 344.7}},
+  "tb": {"rings": 1, "straight": {"n": 4, "mm": 3.0}, "curved": {"n": 0, "mm": 0.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [7.8, 418.0, 127.8, 426.1], "text": "WAAD-BECK SYSTEMS LTD_"},
+   {"mm": [63.0, 224.5, 127.2, 231.5], "text": "SA14-123 MACHINE"},
+   {"mm": [130.0, 223.5, 240.1, 231.1], "text": "CONTROL INTERF ACE ASSE MBL Y"},
+   {"mm": [223.9, 39.9, 243.5, 47.9], "text": "Issue"},
+   {"mm": [223.7, 32.6, 266.6, 40.8], "text": "August 1985"}
+  ]
+ },
+ "title_block": {
+  "mm": [1.7, 31.3, 249.8, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SYSTEMS LTD_", "SA14-123 MACHINE", "CONTROL INTERF ACE ASSE MBL Y", "Issue", "August 1985"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 308 × 432 mm, 1427 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–297 mm across, 14–424 mm up",
+  "- **Outlines:** line 3 rings, 772 straight (2,624 mm) / 53 curved (89.0 mm); text 104 rings, 899 straight (1,167 mm) / 214 curved (345 mm); tb 1 rings, 4 straight (3.0 mm) / 0 curved (0.0 mm)",
+  "- **Words (OCR):** 11 in 5 lines: WAAD-BECK SYSTEMS LTD_ · SA14-123 MACHINE · CONTROL INTERF ACE ASSE MBL Y · Issue · August 1985",
+  "- **Title block:** (2, 31)–(250, 432) mm: WAAD-BECK SYSTEMS LTD_ · SA14-123 MACHINE · CONTROL INTERF ACE ASSE MBL Y · Issue · August 1985"
+ ]
+}

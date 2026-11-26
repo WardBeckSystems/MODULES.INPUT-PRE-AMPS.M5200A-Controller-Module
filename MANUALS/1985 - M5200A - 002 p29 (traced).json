@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
+ "page": 29,
+ "version": 1,
+ "trace": "_traces/6c20a764690b138b-p29.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1484, 2000],
+  "mm": [320.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "29", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [14.7, 27.1, 288.9, 414.5],
+ "outlines": {
+  "line": {"rings": 2, "straight": {"n": 784, "mm": 2456.8}, "curved": {"n": 68, "mm": 116.0}},
+  "text": {"rings": 88, "straight": {"n": 671, "mm": 840.2}, "curved": {"n": 195, "mm": 290.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [15.5, 408.5, 130.6, 415.4], "text": "WAAD-BECK systems LTD."},
+   {"mm": [102.6, 232.1, 131.1, 238.6], "text": "SA14-096"},
+   {"mm": [133.9, 232.1, 196.9, 238.8], "text": "DISPLAY ASSEMBLY"},
+   {"mm": [208.8, 49.2, 227.1, 55.7], "text": "Issue"},
+   {"mm": [234.0, 43.2, 248.7, 49.7], "text": "1985"},
+   {"mm": [208.6, 41.9, 232.1, 49.6], "text": "August"}
+  ]
+ },
+ "title_block": {
+  "mm": [9.2, 40.5, 233.5, 424.2],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK systems LTD.", "SA14-096", "DISPLAY ASSEMBLY", "Issue", "August"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 320 × 432 mm, 1484 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 15–289 mm across, 27–414 mm up",
+  "- **Outlines:** line 2 rings, 784 straight (2,457 mm) / 68 curved (116 mm); text 88 rings, 671 straight (840 mm) / 195 curved (291 mm)",
+  "- **Words (OCR):** 9 in 6 lines: WAAD-BECK systems LTD. · SA14-096 · DISPLAY ASSEMBLY · Issue · 1985 · August",
+  "- **Title block:** (9, 40)–(234, 424) mm: WAAD-BECK systems LTD. · SA14-096 · DISPLAY ASSEMBLY · Issue · August"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/6c20a764690b138b-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1492, 2000],
+  "mm": [322.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [12.7, 23.3, 292.8, 414.7],
+ "outlines": {
+  "line": {"rings": 5, "straight": {"n": 710, "mm": 2508.6}, "curved": {"n": 63, "mm": 103.1}},
+  "text": {"rings": 72, "straight": {"n": 601, "mm": 796.7}, "curved": {"n": 146, "mm": 253.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [12.1, 407.6, 126.7, 416.5], "text": "WARD-BECK SysteMS LTD_"},
+   {"mm": [130.6, 234.3, 159.1, 240.7], "text": "SECTION"},
+   {"mm": [99.7, 220.2, 145.1, 227.2], "text": "MODULES AND"},
+   {"mm": [147.9, 220.2, 199.1, 227.2], "text": "SUBASSE MBL IES"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 322 × 432 mm, 1492 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 13–293 mm across, 23–415 mm up",
+  "- **Outlines:** line 5 rings, 710 straight (2,509 mm) / 63 curved (103 mm); text 72 rings, 601 straight (797 mm) / 146 curved (253 mm)",
+  "- **Words (OCR):** 6 in 4 lines: WARD-BECK SysteMS LTD_ · SECTION · MODULES AND · SUBASSE MBL IES"
+ ]
+}

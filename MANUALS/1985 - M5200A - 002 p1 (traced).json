@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/6c20a764690b138b-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1595, 2000],
+  "mm": [344.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.0, 0.4, 314.0, 431.8],
+ "outlines": {
+  "line": {"rings": 61, "straight": {"n": 2223, "mm": 6378.4}, "curved": {"n": 188, "mm": 353.2}},
+  "text": {"rings": 48, "straight": {"n": 1062, "mm": 3789.0}, "curved": {"n": 110, "mm": 211.3}},
+  "tb": {"rings": 4, "straight": {"n": 121, "mm": 501.4}, "curved": {"n": 12, "mm": 24.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [200.4, 402.4, 293.6, 425.7], "text": "WBS"},
+   {"mm": [199.9, 362.5, 293.2, 386.7], "text": "WBS"},
+   {"mm": [199.3, 322.6, 293.6, 346.8], "text": "WBS"},
+   {"mm": [201.0, 283.0, 294.3, 307.3], "text": "WBS"},
+   {"mm": [199.9, 243.8, 293.8, 267.5], "text": "WBS"},
+   {"mm": [199.3, 203.8, 294.3, 227.6], "text": "WBS"},
+   {"mm": [200.4, 163.9, 293.6, 187.6], "text": "WBS"},
+   {"mm": [198.6, 125.4, 294.7, 148.0], "text": "WBS"},
+   {"mm": [224.3, 90.5, 254.5, 97.4], "text": "M52004"},
+   {"mm": [201.4, 82.3, 248.3, 89.2], "text": "CONTROLLER"},
+   {"mm": [250.2, 82.5, 279.4, 89.4], "text": "Module"},
+   {"mm": [201.9, 45.6, 294.7, 68.8], "text": "WBS"},
+   {"mm": [199.9, 5.6, 294.3, 29.4], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [191.8, 0.0, 301.6, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M52004", "CONTROLLER", "Module", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 344 × 432 mm, 1595 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–314 mm across, 0–432 mm up",
+  "- **Outlines:** line 61 rings, 2,223 straight (6,378 mm) / 188 curved (353 mm); text 48 rings, 1,062 straight (3,789 mm) / 110 curved (211 mm); tb 4 rings, 121 straight (501 mm) / 12 curved (24.9 mm)",
+  "- **Words (OCR):** 13 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M52004 · CONTROLLER · Module · WBS",
+  "- **Title block:** (192, 0)–(302, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M52004 · CONTROLLER · Module · WBS · WBS"
+ ]
+}

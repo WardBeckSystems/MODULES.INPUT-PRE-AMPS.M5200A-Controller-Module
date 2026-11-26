@@ -1,0 +1,66 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/6c20a764690b138b-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1484, 2000],
+  "mm": [320.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [12.5, 0.4, 318.2, 408.3],
+ "outlines": {
+  "line": {"rings": 4, "straight": {"n": 495, "mm": 2569.6}, "curved": {"n": 37, "mm": 58.2}},
+  "text": {"rings": 160, "straight": {"n": 1901, "mm": 2454.7}, "curved": {"n": 386, "mm": 606.0}},
+  "tb": {"rings": 21, "straight": {"n": 234, "mm": 417.5}, "curved": {"n": 39, "mm": 67.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [101.0, 399.8, 175.5, 408.5], "text": "WAAD-BECK"},
+   {"mm": [178.1, 399.8, 261.9, 409.7], "text": "SYSTEMS LTD;"},
+   {"mm": [32.2, 389.9, 259.3, 405.0], "text": "WBS 841 PROGRESS AVENUE, SCAABOROUGH, ONTAAID M1h2XA"},
+   {"mm": [100.2, 389.5, 150.7, 394.3], "text": "TeleX 065-25393"},
+   {"mm": [186.3, 389.7, 218.3, 394.0], "text": "TELEPHOVE"},
+   {"mm": [116.6, 233.6, 176.6, 248.2], "text": "MS2OOA"},
+   {"mm": [100.2, 218.3, 190.2, 226.4], "text": "CONTROLLER MODULE"},
+   {"mm": [205.8, 56.6, 230.6, 62.1], "text": "MANUAL"},
+   {"mm": [234.3, 56.1, 253.0, 62.6], "text": "ISSUE"},
+   {"mm": [205.8, 42.7, 247.4, 49.2], "text": "AugusT 1985"}
+  ]
+ },
+ "title_block": {
+  "mm": [25.7, 47.5, 259.6, 418.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK",
+   "SYSTEMS LTD;",
+   "WBS 841 PROGRESS AVENUE, SCAABOROUGH, ONTAAID M1h2XA",
+   "TeleX 065-25393",
+   "TELEPHOVE",
+   "MS2OOA",
+   "CONTROLLER MODULE",
+   "MANUAL",
+   "ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 320 × 432 mm, 1484 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 12–318 mm across, 0–408 mm up",
+  "- **Outlines:** line 4 rings, 495 straight (2,570 mm) / 37 curved (58.2 mm); text 160 rings, 1,901 straight (2,455 mm) / 386 curved (606 mm); tb 21 rings, 234 straight (418 mm) / 39 curved (67.0 mm)",
+  "- **Words (OCR):** 17 in 10 lines: WAAD-BECK · SYSTEMS LTD; · WBS 841 PROGRESS AVENUE, SCAABOROUGH, ONTAAID M1h2XA · TeleX 065-25393 · TELEPHOVE · MS2OOA · CONTROLLER MODULE · MANUAL · ISSUE · AugusT 1985",
+  "- **Title block:** (26, 48)–(260, 418) mm: WAAD-BECK · SYSTEMS LTD; · WBS 841 PROGRESS AVENUE, SCAABOROUGH, ONTAAID M1h2XA · TeleX 065-25393 · TELEPHOVE · MS2OOA · CONTROLLER MODULE · MANUAL · ISSUE"
+ ]
+}

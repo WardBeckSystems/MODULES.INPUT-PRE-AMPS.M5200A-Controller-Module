@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M5200A/SCHEMATICS/1985 - M5200A - 14-096-06-001 - ASSEMBLY COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/b019b3952981bd52.svg",
+ "sheet": {
+  "number": "14-096-06-001",
+  "title": "Assembly Component Layout",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 270,
+  "px": [2000, 1404],
+  "mm": [431.8, 303.1],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [90.2, 18.4, 431.8, 302.5],
+ "outlines": {
+  "line": {"rings": 257, "straight": {"n": 1699, "mm": 3174.6}, "curved": {"n": 417, "mm": 436.3}},
+  "text": {"rings": 122, "straight": {"n": 751, "mm": 747.6}, "curved": {"n": 246, "mm": 284.2}}
+ },
+ "circles": [
+  {"c": [271.5, 170.7], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [377.4, 171.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [359.1, 170.9], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [386.7, 171.1], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [331.2, 170.9], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [258.3, 170.6], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [271.5, 170.7], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [234.4, 152.2, 406.4, 189.6], "w": 172.0, "h": 37.4, "from": "ring"},
+  {"mm": [299.7, 161.3, 312.4, 180.5], "w": 12.7, "h": 19.2, "from": "ring"},
+  {"mm": [323.6, 166.0, 402.7, 176.0], "w": 79.0, "h": 10.0, "from": "ring"},
+  {"mm": [409.9, 55.1, 412.8, 57.4], "w": 2.9, "h": 2.4, "from": "ring"},
+  {"mm": [383.7, 54.4, 386.9, 57.0], "w": 3.2, "h": 2.6, "from": "ring"},
+  {"mm": [389.2, 54.6, 392.3, 57.0], "w": 3.1, "h": 2.4, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 14-096-06-001, size B (assumed) 432 × 303 mm, 2000 × 1404 px traced (0.216 mm/px), turned 270°",
+  "- **Ink extent:** 90–432 mm across, 18–302 mm up",
+  "- **Outlines:** line 257 rings, 1,699 straight (3,175 mm) / 417 curved (436 mm); text 122 rings, 751 straight (748 mm) / 246 curved (284 mm)",
+  "- **Circles and arcs:** 7 circles, 0 arcs; largest r 2.7 @ (271.5, 170.7), r 2.3 @ (377.4, 171.0), r 2.2 @ (359.1, 170.9), r 2.0 @ (386.7, 171.1)",
+  "- **Closed boxes:** 6"
+ ]
+}
