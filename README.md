@@ -55,6 +55,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Shared privately on Google Drive (opens after sign-in): [1985|18 · B 5200-04-002 - CONTROLLER MODULE - MODULE LAYOUT](https://drive.google.com/file/d/0B0yR0b5T78SKY0dPSnFTY2JNSGM/view?resourcekey=0-cypWmVgWGiibl3K919HmUw)
 
+## 3-D model
+
+[`MECHANICAL/M5200A.stl`](MECHANICAL/M5200A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M5200A)
+
+- **Size:** 483 × 44 mm panel, 406 mm deep, 3.2 mm plate (TECHNICAL DATA: 19.00" wide 1.75" high 16.00" deep (483 mm X 44 mm 406 mm))
+- **From the drawing:** 4 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M5200A - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M5200A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
