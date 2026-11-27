@@ -1,0 +1,449 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.jpg",
+  "module": "M5200A",
+  "applies_to": [
+    "M5200A"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "CONNECTOR LAYOUT M5200A CONTROLLER MODULE (manual page 5-1)",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "J1",
+      "kind": "dsub",
+      "contacts": 37,
+      "rows": "1-19 top row, 20-37 bottom row (37-pin D)",
+      "view": null,
+      "part": "mates with P1 T&B/Ansley 609-37P (male 37 pin 'D'), 609-037 backshell, 609-004A jackscrew set"
+    }
+  ],
+  "pins": [
+    {
+      "connector": "J1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "STROBE 3 (SELECT)",
+      "signal": "SELECT STROBE 3",
+      "kind": "control_out",
+      "port": "SELECT",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "STROBE 1 (SELECT)",
+      "signal": "SELECT STROBE 1",
+      "kind": "control_out",
+      "port": "SELECT",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "NALE5",
+      "signal": "NALE5",
+      "kind": "control_out",
+      "port": "SELECT",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "NRD",
+      "signal": "NRD",
+      "kind": "control_out",
+      "port": "SELECT",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "6 (DATA B)",
+      "signal": "DATA B 6",
+      "kind": "bus",
+      "port": "DATA B",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "4 (DATA B)",
+      "signal": "DATA B 4",
+      "kind": "bus",
+      "port": "DATA B",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "2 (DATA B)",
+      "signal": "DATA B 2",
+      "kind": "bus",
+      "port": "DATA B",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "0 (DATA B)",
+      "signal": "DATA B 0",
+      "kind": "bus",
+      "port": "DATA B",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "6 (DATA A)",
+      "signal": "DATA A 6",
+      "kind": "bus",
+      "port": "DATA A",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "4 (DATA A)",
+      "signal": "DATA A 4",
+      "kind": "bus",
+      "port": "DATA A",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "2 (DATA A)",
+      "signal": "DATA A 2",
+      "kind": "bus",
+      "port": "DATA A",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "0 (DATA A)",
+      "signal": "DATA A 0",
+      "kind": "bus",
+      "port": "DATA A",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "23",
+      "also": null,
+      "as_drawn": "STROBE 4 (SELECT)",
+      "signal": "SELECT STROBE 4",
+      "kind": "control_out",
+      "port": "SELECT",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "24",
+      "also": null,
+      "as_drawn": "STROBE 2 (SELECT)",
+      "signal": "SELECT STROBE 2",
+      "kind": "control_out",
+      "port": "SELECT",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "25",
+      "also": null,
+      "as_drawn": "STROBE 0 (SELECT)",
+      "signal": "SELECT STROBE 0",
+      "kind": "control_out",
+      "port": "SELECT",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "26",
+      "also": null,
+      "as_drawn": "NWR",
+      "signal": "NWR",
+      "kind": "control_out",
+      "port": "SELECT",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "27",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "28",
+      "also": null,
+      "as_drawn": "7 (DATA B)",
+      "signal": "DATA B 7",
+      "kind": "bus",
+      "port": "DATA B",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "29",
+      "also": null,
+      "as_drawn": "5 (DATA B)",
+      "signal": "DATA B 5",
+      "kind": "bus",
+      "port": "DATA B",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "30",
+      "also": null,
+      "as_drawn": "3 (DATA B)",
+      "signal": "DATA B 3",
+      "kind": "bus",
+      "port": "DATA B",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "31",
+      "also": null,
+      "as_drawn": "1 (DATA B)",
+      "signal": "DATA B 1",
+      "kind": "bus",
+      "port": "DATA B",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "32",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "33",
+      "also": null,
+      "as_drawn": "7 (DATA A)",
+      "signal": "DATA A 7",
+      "kind": "bus",
+      "port": "DATA A",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "34",
+      "also": null,
+      "as_drawn": "5 (DATA A)",
+      "signal": "DATA A 5",
+      "kind": "bus",
+      "port": "DATA A",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "35",
+      "also": null,
+      "as_drawn": "3 (DATA A)",
+      "signal": "DATA A 3",
+      "kind": "bus",
+      "port": "DATA A",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "36",
+      "also": null,
+      "as_drawn": "1 (DATA A)",
+      "signal": "DATA A 1",
+      "kind": "bus",
+      "port": "DATA A",
+      "polarity": null
+    },
+    {
+      "connector": "J1",
+      "pin": "37",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "SELECT",
+      "dir": "control_out",
+      "pins": {
+        "STROBE 3": "J1-5",
+        "STROBE 1": "J1-6",
+        "NALE5": "J1-7",
+        "NRD": "J1-8",
+        "STROBE 4": "J1-23",
+        "STROBE 2": "J1-24",
+        "STROBE 0": "J1-25",
+        "NWR": "J1-26"
+      }
+    },
+    {
+      "name": "DATA B",
+      "dir": "bus",
+      "pins": {
+        "D6": "J1-10",
+        "D4": "J1-11",
+        "D2": "J1-12",
+        "D0": "J1-13",
+        "D7": "J1-28",
+        "D5": "J1-29",
+        "D3": "J1-30",
+        "D1": "J1-31"
+      }
+    },
+    {
+      "name": "DATA A",
+      "dir": "bus",
+      "pins": {
+        "D6": "J1-15",
+        "D4": "J1-16",
+        "D2": "J1-17",
+        "D0": "J1-18",
+        "D7": "J1-33",
+        "D5": "J1-34",
+        "D3": "J1-35",
+        "D1": "J1-36"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "The meaning of 'NALE5' (read as drawn) is not explained on the page."
+  ],
+  "confidence": "high",
+  "notes": "Page 5-1 of the M5200A manual. Note on the page: connectors J1 to J6 wired identical. Pin order read from the lead lines: left labels go to 1-19, right labels to 20-37. The SELECT bracket on the left covers STROBE 3, STROBE 1, NALE5 and NRD; on the right STROBE 4, 2, 0 and NWR. DATA A / DATA B are 8-bit buses (even bits on 10-13/15-18, odd bits on 28-31/33-36); ports keyed D0-D7. Directions (select/strobe/NRD/NWR as control_out, data as bus) are inferred from the signal names, not stated. Typical mating connector P1: T&B/Ansley 609-37P (male 37 pin 'D'), 609-037 backshell, 609-004A jackscrew set. Legend: NC not connected, IC internally connected."
+}

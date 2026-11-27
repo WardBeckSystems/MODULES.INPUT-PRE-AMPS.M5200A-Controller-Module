@@ -1,0 +1,533 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "19xx - M5200A - Connector Layout M5200A Controller Module J7.jpg",
+  "module": "M5200A",
+  "applies_to": [
+    "M5200A"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "CONNECTOR LAYOUT M5200A CONTROLLER MODULE (manual page 5-2)",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "J7",
+      "kind": "dsub",
+      "contacts": 37,
+      "rows": "1-19 top row, 20-37 bottom row (37-pin D)",
+      "view": null,
+      "part": "mates with P7 T&B/Ansley 609-37P (male 37 pin 'D'), 609-037 backshell, 609-004A jackscrew set"
+    }
+  ],
+  "pins": [
+    {
+      "connector": "J7",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "1 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 1 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 1",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "2 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 2 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 2",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "3 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 3 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 3",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "4 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 4 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 4",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "5 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 5 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 5",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "6 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 6 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 6",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "7 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 7 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 7",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "8 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 8 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 8",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "9 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 9 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 9",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "10 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 10 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 10",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "11 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 11 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 11",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "12 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 12 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 12",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "13 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 13 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 13",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "14 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 14 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 14",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "15 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 15 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 15",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "16 (EXTERNAL INPUTS -)",
+      "signal": "EXTERNAL INPUT 16 -",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 16",
+      "polarity": "-"
+    },
+    {
+      "connector": "J7",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J7",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "+5V",
+      "signal": "+5 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J7",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "+5V",
+      "signal": "+5 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J7",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "1 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 1 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 1",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "2 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 2 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 2",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "3 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 3 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 3",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "23",
+      "also": null,
+      "as_drawn": "4 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 4 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 4",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "24",
+      "also": null,
+      "as_drawn": "5 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 5 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 5",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "25",
+      "also": null,
+      "as_drawn": "6 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 6 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 6",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "26",
+      "also": null,
+      "as_drawn": "7 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 7 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 7",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "27",
+      "also": null,
+      "as_drawn": "8 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 8 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 8",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "28",
+      "also": null,
+      "as_drawn": "9 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 9 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 9",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "29",
+      "also": null,
+      "as_drawn": "10 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 10 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 10",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "30",
+      "also": null,
+      "as_drawn": "11 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 11 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 11",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "31",
+      "also": null,
+      "as_drawn": "12 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 12 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 12",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "32",
+      "also": null,
+      "as_drawn": "13 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 13 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 13",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "33",
+      "also": null,
+      "as_drawn": "14 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 14 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 14",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "34",
+      "also": null,
+      "as_drawn": "15 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 15 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 15",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "35",
+      "also": null,
+      "as_drawn": "16 (EXTERNAL INPUTS +)",
+      "signal": "EXTERNAL INPUT 16 +",
+      "kind": "control_in",
+      "port": "EXTERNAL INPUT 16",
+      "polarity": "+"
+    },
+    {
+      "connector": "J7",
+      "pin": "36",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J7",
+      "pin": "37",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "EXTERNAL INPUT 1",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-1",
+        "+": "J7-20"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 2",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-2",
+        "+": "J7-21"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 3",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-3",
+        "+": "J7-22"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 4",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-4",
+        "+": "J7-23"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 5",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-5",
+        "+": "J7-24"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 6",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-6",
+        "+": "J7-25"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 7",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-7",
+        "+": "J7-26"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 8",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-8",
+        "+": "J7-27"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 9",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-9",
+        "+": "J7-28"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 10",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-10",
+        "+": "J7-29"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 11",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-11",
+        "+": "J7-30"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 12",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-12",
+        "+": "J7-31"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 13",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-13",
+        "+": "J7-32"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 14",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-14",
+        "+": "J7-33"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 15",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-15",
+        "+": "J7-34"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 16",
+      "dir": "control_in",
+      "pins": {
+        "-": "J7-16",
+        "+": "J7-35"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [],
+  "confidence": "high",
+  "notes": "Page 5-2. EXTERNAL INPUTS - on the left (pins 1-16 = inputs 1-16), EXTERNAL INPUTS + on the right (pins 20-35 = inputs 1-16). 17 NC, 18-19 +5V (bracketed), 36-37 COM (bracketed). Note on page: 'INPUTS: Isolated opto-couplers.' Typical mating connector P7: T&B/Ansley 609-37P (male 37 pin 'D'), 609-037 backshell, 609-004A jackscrew set."
+}

@@ -1,0 +1,193 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "19xx - M5200A - Connector Layout M5200A Controller Module P10.jpg",
+  "module": "M5200A",
+  "applies_to": [
+    "M5200A"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "CONNECTOR LAYOUT M5200A CONTROLLER MODULE (manual page 5-5)",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P10",
+      "kind": "dsub",
+      "contacts": 15,
+      "rows": "1-8 opposite 9-15 (15-pin D)",
+      "view": null,
+      "part": "mates with J10: TEEE NAZ15SE (female 15 pin 'D'), SOURIAU 8630-93C15 (backshell with jackscrews)"
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P10",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "+10/12V",
+      "signal": "+10/12 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "+10/12V",
+      "signal": "+10/12 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CTL COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CTL COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "BATTERY STRAP",
+      "signal": "BATTERY STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "+10/12V",
+      "signal": "+10/12 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CTL COM",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P10",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "BATTERY STRAP",
+      "signal": "BATTERY STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [],
+  "inserts": [],
+  "straps": [
+    {
+      "name": "BATTERY STRAP",
+      "pins": [
+        "P10-7",
+        "P10-15"
+      ],
+      "note": "both contacts labelled BATTERY STRAP; what the strap selects is not stated"
+    }
+  ],
+  "unread": [],
+  "confidence": "high",
+  "notes": "Page 5-5: power / control connector P10. +10/12V on 1, 2 (bracketed) and 9; CTL COM on 3, 4 (bracketed) and 11; CHASSIS on 8. Faint show-through of a schematic (B 5200-02-00x) behind the page is ignored."
+}

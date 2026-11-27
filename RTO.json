@@ -3,48 +3,2455 @@
  "connector": "RTO-144",
  "type": null,
  "series": null,
- "contacts": "40 contacts",
- "verified": null,
- "derived": true,
- "variant_of": null,
- "pins": [
+ "connectors": [
   {
-   "pin": "18",
-   "signal": "DISCRETE DATA INPUTS DATA PORT 7600H PROVIDES",
-   "kind": "in",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
-   "page": 35
+   "name": "J7",
+   "kind": "dsub",
+   "contacts": 37,
+   "rows": "1-19 top row, 20-37 bottom row (37-pin D)",
+   "view": null,
+   "part": "mates with P7 T&B/Ansley 609-37P (male 37 pin 'D'), 609-037 backshell, 609-004A jackscrew set"
   },
   {
-   "pin": "19",
-   "signal": "DISCRETE DATA INPUTS DATA PORT 7600H PROVIDES",
-   "kind": "in",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
-   "page": 35
+   "name": "J8",
+   "kind": "dsub",
+   "contacts": 37,
+   "rows": "1-19 top row, 20-37 bottom row (37-pin D)",
+   "view": null,
+   "part": "mates with P8 T&B/Ansley 609-37P (male 37 pin 'D'), 609-037 backshell, 609-004A jackscrew set"
   },
   {
-   "pin": "D",
-   "signal": "POWER TO THE CONTROLLER",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
-   "page": 6
+   "name": "J1",
+   "kind": "dsub",
+   "contacts": 37,
+   "rows": "1-19 top row, 20-37 bottom row (37-pin D)",
+   "view": null,
+   "part": "mates with P1 T&B/Ansley 609-37P (male 37 pin 'D'), 609-037 backshell, 609-004A jackscrew set"
+  },
+  {
+   "name": "P10",
+   "kind": "dsub",
+   "contacts": 15,
+   "rows": "1-8 opposite 9-15 (15-pin D)",
+   "view": null,
+   "part": "mates with J10: TEEE NAZ15SE (female 15 pin 'D'), SOURIAU 8630-93C15 (backshell with jackscrews)"
   }
  ],
- "straps": [],
- "power": [],
- "sources": [
-  "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf"
- ]
+ "verified": null,
+ "built_from": {
+  "pictures": [
+   "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+   "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+   "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json",
+   "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json",
+   "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+  ],
+  "sheet": null,
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "J1",
+   "pin": "1",
+   "ref": "J1-1",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "2",
+   "ref": "J1-2",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "3",
+   "ref": "J1-3",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "4",
+   "ref": "J1-4",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "5",
+   "ref": "J1-5",
+   "also": null,
+   "same_row": null,
+   "signal": "SELECT STROBE 3",
+   "kind": "control_out",
+   "port": "SELECT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "6",
+   "ref": "J1-6",
+   "also": null,
+   "same_row": null,
+   "signal": "SELECT STROBE 1",
+   "kind": "control_out",
+   "port": "SELECT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "7",
+   "ref": "J1-7",
+   "also": null,
+   "same_row": null,
+   "signal": "NALE5",
+   "kind": "control_out",
+   "port": "SELECT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "8",
+   "ref": "J1-8",
+   "also": null,
+   "same_row": null,
+   "signal": "NRD",
+   "kind": "control_out",
+   "port": "SELECT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "9",
+   "ref": "J1-9",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "10",
+   "ref": "J1-10",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA B 6",
+   "kind": "bus",
+   "port": "DATA B",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "11",
+   "ref": "J1-11",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA B 4",
+   "kind": "bus",
+   "port": "DATA B",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "12",
+   "ref": "J1-12",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA B 2",
+   "kind": "bus",
+   "port": "DATA B",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "13",
+   "ref": "J1-13",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA B 0",
+   "kind": "bus",
+   "port": "DATA B",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "14",
+   "ref": "J1-14",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "15",
+   "ref": "J1-15",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA A 6",
+   "kind": "bus",
+   "port": "DATA A",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "16",
+   "ref": "J1-16",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA A 4",
+   "kind": "bus",
+   "port": "DATA A",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "17",
+   "ref": "J1-17",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA A 2",
+   "kind": "bus",
+   "port": "DATA A",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "18",
+   "ref": "J1-18",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA A 0",
+   "kind": "bus",
+   "port": "DATA A",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "19",
+   "ref": "J1-19",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "20",
+   "ref": "J1-20",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "21",
+   "ref": "J1-21",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "22",
+   "ref": "J1-22",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "23",
+   "ref": "J1-23",
+   "also": null,
+   "same_row": null,
+   "signal": "SELECT STROBE 4",
+   "kind": "control_out",
+   "port": "SELECT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "24",
+   "ref": "J1-24",
+   "also": null,
+   "same_row": null,
+   "signal": "SELECT STROBE 2",
+   "kind": "control_out",
+   "port": "SELECT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "25",
+   "ref": "J1-25",
+   "also": null,
+   "same_row": null,
+   "signal": "SELECT STROBE 0",
+   "kind": "control_out",
+   "port": "SELECT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "26",
+   "ref": "J1-26",
+   "also": null,
+   "same_row": null,
+   "signal": "NWR",
+   "kind": "control_out",
+   "port": "SELECT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "27",
+   "ref": "J1-27",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "28",
+   "ref": "J1-28",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA B 7",
+   "kind": "bus",
+   "port": "DATA B",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "29",
+   "ref": "J1-29",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA B 5",
+   "kind": "bus",
+   "port": "DATA B",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "30",
+   "ref": "J1-30",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA B 3",
+   "kind": "bus",
+   "port": "DATA B",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "31",
+   "ref": "J1-31",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA B 1",
+   "kind": "bus",
+   "port": "DATA B",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "32",
+   "ref": "J1-32",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "33",
+   "ref": "J1-33",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA A 7",
+   "kind": "bus",
+   "port": "DATA A",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "34",
+   "ref": "J1-34",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA A 5",
+   "kind": "bus",
+   "port": "DATA A",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "35",
+   "ref": "J1-35",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA A 3",
+   "kind": "bus",
+   "port": "DATA A",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "36",
+   "ref": "J1-36",
+   "also": null,
+   "same_row": null,
+   "signal": "DATA A 1",
+   "kind": "bus",
+   "port": "DATA A",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J1",
+   "pin": "37",
+   "ref": "J1-37",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE.pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module (3).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "1",
+   "ref": "J7-1",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 1 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "2",
+   "ref": "J7-2",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 2 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "3",
+   "ref": "J7-3",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 3 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "4",
+   "ref": "J7-4",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 4 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "5",
+   "ref": "J7-5",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 5 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 5",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "6",
+   "ref": "J7-6",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 6 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 6",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "7",
+   "ref": "J7-7",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 7 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 7",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "8",
+   "ref": "J7-8",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 8 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 8",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "9",
+   "ref": "J7-9",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 9 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 9",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "10",
+   "ref": "J7-10",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 10 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 10",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "11",
+   "ref": "J7-11",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 11 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 11",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "12",
+   "ref": "J7-12",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 12 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 12",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "13",
+   "ref": "J7-13",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 13 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 13",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "14",
+   "ref": "J7-14",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 14 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 14",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "15",
+   "ref": "J7-15",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 15 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 15",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "16",
+   "ref": "J7-16",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 16 -",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 16",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "17",
+   "ref": "J7-17",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "18",
+   "ref": "J7-18",
+   "also": null,
+   "same_row": null,
+   "signal": "+5 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "19",
+   "ref": "J7-19",
+   "also": null,
+   "same_row": null,
+   "signal": "+5 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "20",
+   "ref": "J7-20",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 1 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "21",
+   "ref": "J7-21",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 2 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "22",
+   "ref": "J7-22",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 3 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "23",
+   "ref": "J7-23",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 4 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "24",
+   "ref": "J7-24",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 5 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 5",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "25",
+   "ref": "J7-25",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 6 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 6",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "26",
+   "ref": "J7-26",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 7 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 7",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "27",
+   "ref": "J7-27",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 8 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 8",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "28",
+   "ref": "J7-28",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 9 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 9",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "29",
+   "ref": "J7-29",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 10 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 10",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "30",
+   "ref": "J7-30",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 11 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 11",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "31",
+   "ref": "J7-31",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 12 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 12",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "32",
+   "ref": "J7-32",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 13 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 13",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "33",
+   "ref": "J7-33",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 14 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 14",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "34",
+   "ref": "J7-34",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 15 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 15",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "35",
+   "ref": "J7-35",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 16 +",
+   "kind": "control_in",
+   "port": "EXTERNAL INPUT 16",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "36",
+   "ref": "J7-36",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J7",
+   "pin": "37",
+   "ref": "J7-37",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json",
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module J7.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "1",
+   "ref": "J8-1",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 1",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 1",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "2",
+   "ref": "J8-2",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 2",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 2",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "3",
+   "ref": "J8-3",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 3",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 3",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "4",
+   "ref": "J8-4",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 4",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 4",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "5",
+   "ref": "J8-5",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 5",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 5",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "6",
+   "ref": "J8-6",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 6",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 6",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "7",
+   "ref": "J8-7",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 7",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 7",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "8",
+   "ref": "J8-8",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 8",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 8",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "9",
+   "ref": "J8-9",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 1",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 1",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "10",
+   "ref": "J8-10",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 2",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 2",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "11",
+   "ref": "J8-11",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 3",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 3",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "12",
+   "ref": "J8-12",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 4",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 4",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "13",
+   "ref": "J8-13",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 5",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 5",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "14",
+   "ref": "J8-14",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 6",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 6",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "15",
+   "ref": "J8-15",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 7",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 7",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "16",
+   "ref": "J8-16",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 8",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 8",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "17",
+   "ref": "J8-17",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "18",
+   "ref": "J8-18",
+   "also": null,
+   "same_row": null,
+   "signal": "SPARE",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "19",
+   "ref": "J8-19",
+   "also": null,
+   "same_row": null,
+   "signal": "SPARE",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "20",
+   "ref": "J8-20",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 1",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 1",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "21",
+   "ref": "J8-21",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 2",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 2",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "22",
+   "ref": "J8-22",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 3",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 3",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "23",
+   "ref": "J8-23",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 4",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 4",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "24",
+   "ref": "J8-24",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 5",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 5",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "25",
+   "ref": "J8-25",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 6",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 6",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "26",
+   "ref": "J8-26",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 7",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 7",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "27",
+   "ref": "J8-27",
+   "also": null,
+   "same_row": null,
+   "signal": "MUTE CONTROL 8",
+   "kind": "control_out",
+   "port": "MUTE CONTROL 8",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "28",
+   "ref": "J8-28",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 1",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 1",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "29",
+   "ref": "J8-29",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 2",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 2",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "30",
+   "ref": "J8-30",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 3",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 3",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "31",
+   "ref": "J8-31",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 4",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 4",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "32",
+   "ref": "J8-32",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 5",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 5",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "33",
+   "ref": "J8-33",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 6",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 6",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "34",
+   "ref": "J8-34",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 7",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 7",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "35",
+   "ref": "J8-35",
+   "also": null,
+   "same_row": null,
+   "signal": "MACHINE CONTROL 8",
+   "kind": "control_out",
+   "port": "MACHINE CONTROL 8",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "36",
+   "ref": "J8-36",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "J8",
+   "pin": "37",
+   "ref": "J8-37",
+   "also": null,
+   "same_row": null,
+   "signal": "COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MODULE (2).pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "1",
+   "ref": "P10-1",
+   "also": null,
+   "same_row": null,
+   "signal": "+10/12 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "2",
+   "ref": "P10-2",
+   "also": null,
+   "same_row": null,
+   "signal": "+10/12 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "3",
+   "ref": "P10-3",
+   "also": null,
+   "same_row": null,
+   "signal": "CTL COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "4",
+   "ref": "P10-4",
+   "also": null,
+   "same_row": null,
+   "signal": "CTL COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "5",
+   "ref": "P10-5",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "6",
+   "ref": "P10-6",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "7",
+   "ref": "P10-7",
+   "also": null,
+   "same_row": null,
+   "signal": "BATTERY STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "8",
+   "ref": "P10-8",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "9",
+   "ref": "P10-9",
+   "also": null,
+   "same_row": null,
+   "signal": "+10/12 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "10",
+   "ref": "P10-10",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "11",
+   "ref": "P10-11",
+   "also": null,
+   "same_row": null,
+   "signal": "CTL COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "12",
+   "ref": "P10-12",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "13",
+   "ref": "P10-13",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "14",
+   "ref": "P10-14",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P10",
+   "pin": "15",
+   "ref": "P10-15",
+   "also": null,
+   "same_row": null,
+   "signal": "BATTERY STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M5200A/PINOUTS/19xx - M5200A - Connector Layout M5200A Controller Module P10.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "SELECT",
+   "dir": "control_out",
+   "pins": {
+    "STROBE 3": "J1-5",
+    "STROBE 1": "J1-6",
+    "NALE5": "J1-7",
+    "NRD": "J1-8",
+    "STROBE 4": "J1-23",
+    "STROBE 2": "J1-24",
+    "STROBE 0": "J1-25",
+    "NWR": "J1-26"
+   }
+  },
+  {
+   "name": "DATA B",
+   "dir": "bus",
+   "pins": {
+    "D6": "J1-10",
+    "D4": "J1-11",
+    "D2": "J1-12",
+    "D0": "J1-13",
+    "D7": "J1-28",
+    "D5": "J1-29",
+    "D3": "J1-30",
+    "D1": "J1-31"
+   }
+  },
+  {
+   "name": "DATA A",
+   "dir": "bus",
+   "pins": {
+    "D6": "J1-15",
+    "D4": "J1-16",
+    "D2": "J1-17",
+    "D0": "J1-18",
+    "D7": "J1-33",
+    "D5": "J1-34",
+    "D3": "J1-35",
+    "D1": "J1-36"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 1",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-1",
+    "+": "J7-20"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 2",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-2",
+    "+": "J7-21"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 3",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-3",
+    "+": "J7-22"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 4",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-4",
+    "+": "J7-23"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 5",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-5",
+    "+": "J7-24"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 6",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-6",
+    "+": "J7-25"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 7",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-7",
+    "+": "J7-26"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 8",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-8",
+    "+": "J7-27"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 9",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-9",
+    "+": "J7-28"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 10",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-10",
+    "+": "J7-29"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 11",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-11",
+    "+": "J7-30"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 12",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-12",
+    "+": "J7-31"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 13",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-13",
+    "+": "J7-32"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 14",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-14",
+    "+": "J7-33"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 15",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-15",
+    "+": "J7-34"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 16",
+   "dir": "control_in",
+   "pins": {
+    "-": "J7-16",
+    "+": "J7-35"
+   }
+  },
+  {
+   "name": "MUTE CONTROL 1",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-1",
+    "b": "J8-20"
+   }
+  },
+  {
+   "name": "MUTE CONTROL 2",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-2",
+    "b": "J8-21"
+   }
+  },
+  {
+   "name": "MUTE CONTROL 3",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-3",
+    "b": "J8-22"
+   }
+  },
+  {
+   "name": "MUTE CONTROL 4",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-4",
+    "b": "J8-23"
+   }
+  },
+  {
+   "name": "MUTE CONTROL 5",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-5",
+    "b": "J8-24"
+   }
+  },
+  {
+   "name": "MUTE CONTROL 6",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-6",
+    "b": "J8-25"
+   }
+  },
+  {
+   "name": "MUTE CONTROL 7",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-7",
+    "b": "J8-26"
+   }
+  },
+  {
+   "name": "MUTE CONTROL 8",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-8",
+    "b": "J8-27"
+   }
+  },
+  {
+   "name": "MACHINE CONTROL 1",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-9",
+    "b": "J8-28"
+   }
+  },
+  {
+   "name": "MACHINE CONTROL 2",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-10",
+    "b": "J8-29"
+   }
+  },
+  {
+   "name": "MACHINE CONTROL 3",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-11",
+    "b": "J8-30"
+   }
+  },
+  {
+   "name": "MACHINE CONTROL 4",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-12",
+    "b": "J8-31"
+   }
+  },
+  {
+   "name": "MACHINE CONTROL 5",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-13",
+    "b": "J8-32"
+   }
+  },
+  {
+   "name": "MACHINE CONTROL 6",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-14",
+    "b": "J8-33"
+   }
+  },
+  {
+   "name": "MACHINE CONTROL 7",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-15",
+    "b": "J8-34"
+   }
+  },
+  {
+   "name": "MACHINE CONTROL 8",
+   "dir": "control_out",
+   "pins": {
+    "a": "J8-16",
+    "b": "J8-35"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [
+  {
+   "name": "BATTERY STRAP",
+   "pins": [
+    "P10-7",
+    "P10-15"
+   ],
+   "note": "both contacts labelled BATTERY STRAP; what the strap selects is not stated"
+  }
+ ],
+ "conflicts": [],
+ "to_check": []
 }

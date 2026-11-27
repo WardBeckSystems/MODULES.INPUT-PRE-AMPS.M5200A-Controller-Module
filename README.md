@@ -76,13 +76,138 @@ Not on Google Drive yet: `19xx - M5200A - CONNECTOR LAYOUT M5200A CONTROLLER MOD
 
 ## RTO-144 pinout
 
-40 contacts. Read from the module's own documents (no RTO-144 sheet yet). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 5 pinout pictures (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 18 | DISCRETE DATA INPUTS DATA PORT 7600H PROVIDES | in |  | medium |
-| 19 | DISCRETE DATA INPUTS DATA PORT 7600H PROVIDES | in |  | medium |
-| D | POWER TO THE CONTROLLER | power |  | medium |
+| J1-1 | COM | ground |  | high |
+| J1-2 | N/C | nc |  | high |
+| J1-3 | N/C | nc |  | high |
+| J1-4 | N/C | nc |  | high |
+| J1-5 | SELECT STROBE 3 | control_out | SELECT | high |
+| J1-6 | SELECT STROBE 1 | control_out | SELECT | high |
+| J1-7 | NALE5 | control_out | SELECT | high |
+| J1-8 | NRD | control_out | SELECT | high |
+| J1-9 | COM | ground |  | high |
+| J1-10 | DATA B 6 | bus | DATA B | high |
+| J1-11 | DATA B 4 | bus | DATA B | high |
+| J1-12 | DATA B 2 | bus | DATA B | high |
+| J1-13 | DATA B 0 | bus | DATA B | high |
+| J1-14 | COM | ground |  | high |
+| J1-15 | DATA A 6 | bus | DATA A | high |
+| J1-16 | DATA A 4 | bus | DATA A | high |
+| J1-17 | DATA A 2 | bus | DATA A | high |
+| J1-18 | DATA A 0 | bus | DATA A | high |
+| J1-19 | COM | ground |  | high |
+| J1-20 | COM | ground |  | high |
+| J1-21 | N/C | nc |  | high |
+| J1-22 | N/C | nc |  | high |
+| J1-23 | SELECT STROBE 4 | control_out | SELECT | high |
+| J1-24 | SELECT STROBE 2 | control_out | SELECT | high |
+| J1-25 | SELECT STROBE 0 | control_out | SELECT | high |
+| J1-26 | NWR | control_out | SELECT | high |
+| J1-27 | COM | ground |  | high |
+| J1-28 | DATA B 7 | bus | DATA B | high |
+| J1-29 | DATA B 5 | bus | DATA B | high |
+| J1-30 | DATA B 3 | bus | DATA B | high |
+| J1-31 | DATA B 1 | bus | DATA B | high |
+| J1-32 | COM | ground |  | high |
+| J1-33 | DATA A 7 | bus | DATA A | high |
+| J1-34 | DATA A 5 | bus | DATA A | high |
+| J1-35 | DATA A 3 | bus | DATA A | high |
+| J1-36 | DATA A 1 | bus | DATA A | high |
+| J1-37 | COM | ground |  | high |
+| J7-1 | EXTERNAL INPUT 1 - | control_in | EXTERNAL INPUT 1 - | high |
+| J7-2 | EXTERNAL INPUT 2 - | control_in | EXTERNAL INPUT 2 - | high |
+| J7-3 | EXTERNAL INPUT 3 - | control_in | EXTERNAL INPUT 3 - | high |
+| J7-4 | EXTERNAL INPUT 4 - | control_in | EXTERNAL INPUT 4 - | high |
+| J7-5 | EXTERNAL INPUT 5 - | control_in | EXTERNAL INPUT 5 - | high |
+| J7-6 | EXTERNAL INPUT 6 - | control_in | EXTERNAL INPUT 6 - | high |
+| J7-7 | EXTERNAL INPUT 7 - | control_in | EXTERNAL INPUT 7 - | high |
+| J7-8 | EXTERNAL INPUT 8 - | control_in | EXTERNAL INPUT 8 - | high |
+| J7-9 | EXTERNAL INPUT 9 - | control_in | EXTERNAL INPUT 9 - | high |
+| J7-10 | EXTERNAL INPUT 10 - | control_in | EXTERNAL INPUT 10 - | high |
+| J7-11 | EXTERNAL INPUT 11 - | control_in | EXTERNAL INPUT 11 - | high |
+| J7-12 | EXTERNAL INPUT 12 - | control_in | EXTERNAL INPUT 12 - | high |
+| J7-13 | EXTERNAL INPUT 13 - | control_in | EXTERNAL INPUT 13 - | high |
+| J7-14 | EXTERNAL INPUT 14 - | control_in | EXTERNAL INPUT 14 - | high |
+| J7-15 | EXTERNAL INPUT 15 - | control_in | EXTERNAL INPUT 15 - | high |
+| J7-16 | EXTERNAL INPUT 16 - | control_in | EXTERNAL INPUT 16 - | high |
+| J7-17 | N/C | nc |  | high |
+| J7-18 | +5 V | power |  | high |
+| J7-19 | +5 V | power |  | high |
+| J7-20 | EXTERNAL INPUT 1 + | control_in | EXTERNAL INPUT 1 + | high |
+| J7-21 | EXTERNAL INPUT 2 + | control_in | EXTERNAL INPUT 2 + | high |
+| J7-22 | EXTERNAL INPUT 3 + | control_in | EXTERNAL INPUT 3 + | high |
+| J7-23 | EXTERNAL INPUT 4 + | control_in | EXTERNAL INPUT 4 + | high |
+| J7-24 | EXTERNAL INPUT 5 + | control_in | EXTERNAL INPUT 5 + | high |
+| J7-25 | EXTERNAL INPUT 6 + | control_in | EXTERNAL INPUT 6 + | high |
+| J7-26 | EXTERNAL INPUT 7 + | control_in | EXTERNAL INPUT 7 + | high |
+| J7-27 | EXTERNAL INPUT 8 + | control_in | EXTERNAL INPUT 8 + | high |
+| J7-28 | EXTERNAL INPUT 9 + | control_in | EXTERNAL INPUT 9 + | high |
+| J7-29 | EXTERNAL INPUT 10 + | control_in | EXTERNAL INPUT 10 + | high |
+| J7-30 | EXTERNAL INPUT 11 + | control_in | EXTERNAL INPUT 11 + | high |
+| J7-31 | EXTERNAL INPUT 12 + | control_in | EXTERNAL INPUT 12 + | high |
+| J7-32 | EXTERNAL INPUT 13 + | control_in | EXTERNAL INPUT 13 + | high |
+| J7-33 | EXTERNAL INPUT 14 + | control_in | EXTERNAL INPUT 14 + | high |
+| J7-34 | EXTERNAL INPUT 15 + | control_in | EXTERNAL INPUT 15 + | high |
+| J7-35 | EXTERNAL INPUT 16 + | control_in | EXTERNAL INPUT 16 + | high |
+| J7-36 | COM | ground |  | high |
+| J7-37 | COM | ground |  | high |
+| J8-1 | MUTE CONTROL 1 | control_out | MUTE CONTROL 1 | medium |
+| J8-2 | MUTE CONTROL 2 | control_out | MUTE CONTROL 2 | medium |
+| J8-3 | MUTE CONTROL 3 | control_out | MUTE CONTROL 3 | medium |
+| J8-4 | MUTE CONTROL 4 | control_out | MUTE CONTROL 4 | medium |
+| J8-5 | MUTE CONTROL 5 | control_out | MUTE CONTROL 5 | medium |
+| J8-6 | MUTE CONTROL 6 | control_out | MUTE CONTROL 6 | medium |
+| J8-7 | MUTE CONTROL 7 | control_out | MUTE CONTROL 7 | medium |
+| J8-8 | MUTE CONTROL 8 | control_out | MUTE CONTROL 8 | medium |
+| J8-9 | MACHINE CONTROL 1 | control_out | MACHINE CONTROL 1 | medium |
+| J8-10 | MACHINE CONTROL 2 | control_out | MACHINE CONTROL 2 | medium |
+| J8-11 | MACHINE CONTROL 3 | control_out | MACHINE CONTROL 3 | medium |
+| J8-12 | MACHINE CONTROL 4 | control_out | MACHINE CONTROL 4 | medium |
+| J8-13 | MACHINE CONTROL 5 | control_out | MACHINE CONTROL 5 | medium |
+| J8-14 | MACHINE CONTROL 6 | control_out | MACHINE CONTROL 6 | medium |
+| J8-15 | MACHINE CONTROL 7 | control_out | MACHINE CONTROL 7 | medium |
+| J8-16 | MACHINE CONTROL 8 | control_out | MACHINE CONTROL 8 | medium |
+| J8-17 | N/C | nc |  | medium |
+| J8-18 | SPARE | other |  | medium |
+| J8-19 | SPARE | other |  | medium |
+| J8-20 | MUTE CONTROL 1 | control_out | MUTE CONTROL 1 | medium |
+| J8-21 | MUTE CONTROL 2 | control_out | MUTE CONTROL 2 | medium |
+| J8-22 | MUTE CONTROL 3 | control_out | MUTE CONTROL 3 | medium |
+| J8-23 | MUTE CONTROL 4 | control_out | MUTE CONTROL 4 | medium |
+| J8-24 | MUTE CONTROL 5 | control_out | MUTE CONTROL 5 | medium |
+| J8-25 | MUTE CONTROL 6 | control_out | MUTE CONTROL 6 | medium |
+| J8-26 | MUTE CONTROL 7 | control_out | MUTE CONTROL 7 | medium |
+| J8-27 | MUTE CONTROL 8 | control_out | MUTE CONTROL 8 | medium |
+| J8-28 | MACHINE CONTROL 1 | control_out | MACHINE CONTROL 1 | medium |
+| J8-29 | MACHINE CONTROL 2 | control_out | MACHINE CONTROL 2 | medium |
+| J8-30 | MACHINE CONTROL 3 | control_out | MACHINE CONTROL 3 | medium |
+| J8-31 | MACHINE CONTROL 4 | control_out | MACHINE CONTROL 4 | medium |
+| J8-32 | MACHINE CONTROL 5 | control_out | MACHINE CONTROL 5 | medium |
+| J8-33 | MACHINE CONTROL 6 | control_out | MACHINE CONTROL 6 | medium |
+| J8-34 | MACHINE CONTROL 7 | control_out | MACHINE CONTROL 7 | medium |
+| J8-35 | MACHINE CONTROL 8 | control_out | MACHINE CONTROL 8 | medium |
+| J8-36 | COM | ground |  | medium |
+| J8-37 | COM | ground |  | medium |
+| P10-1 | +10/12 V | power |  | high |
+| P10-2 | +10/12 V | power |  | high |
+| P10-3 | CTL COM | ground |  | high |
+| P10-4 | CTL COM | ground |  | high |
+| P10-5 | N/C | nc |  | high |
+| P10-6 | N/C | nc |  | high |
+| P10-7 | BATTERY STRAP | strap |  | high |
+| P10-8 | CHASSIS | ground |  | high |
+| P10-9 | +10/12 V | power |  | high |
+| P10-10 | N/C | nc |  | high |
+| P10-11 | CTL COM | ground |  | high |
+| P10-12 | N/C | nc |  | high |
+| P10-13 | N/C | nc |  | high |
+| P10-14 | N/C | nc |  | high |
+| P10-15 | BATTERY STRAP | strap |  | high |
+
+**Straps:** BATTERY STRAP: P10-7 P10-15
 
 ## Manuals and documents
 
