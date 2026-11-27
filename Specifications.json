@@ -1,0 +1,152 @@
+{
+ "module": "M5200A",
+ "title": "MS2OOA CONTROLLER MODULE",
+ "source": {
+  "file": "MANUALS/1985 - M5200A - WBS M5200A_Page_05.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.85,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Memory",
+   "key": "memory",
+   "text": "EPROM: NMC2732 (4K EEPROM: X2816 (2K RAM: NM2I16 (2K 8 8) 8)"
+  },
+  {
+   "name": "Logic levels",
+   "key": "logic_level",
+   "text": "Standard volt HC series Levels. Logic 1: 3.5V min 20 MA source. Logic 0: 1V max 20 mA sink. Clock Frequency mHz crystal +/-.003%.",
+   "quantities": [
+    {
+     "value": 3.5,
+     "unit": "V"
+    },
+    {
+     "value": 20,
+     "unit": "MA"
+    },
+    {
+     "value": 1,
+     "unit": "V"
+    },
+    {
+     "value": 20,
+     "unit": "mA"
+    },
+    {
+     "value": 3,
+     "unit": "%"
+    }
+   ]
+  },
+  {
+   "name": "Status indication",
+   "key": "status_indication",
+   "text": "Seven segment display"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "10/12 volts dc, unregulated, 0.5 amp",
+   "quantities": [
+    {
+     "value": 12,
+     "unit": "volts dc"
+    }
+   ]
+  },
+  {
+   "name": "Circuit protection",
+   "key": "circuit_protection",
+   "text": "1.5 amp circuit breaker, current limiting regulators and overvoltage protecting zener diode."
+  },
+  {
+   "name": "Discrete control inputs",
+   "key": "discrete_control_input",
+   "text": "Opto-isolators maybe strapped for or 12 to 24 volt operation Discrete control outputs Dry relay contacts 24V dc at 50 ma max.",
+   "quantities": [
+    {
+     "from": 12,
+     "to": 24,
+     "unit": "volt"
+    },
+    {
+     "value": 24,
+     "unit": "V dc"
+    },
+    {
+     "value": 50,
+     "unit": "ma"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 60 degrees celsius",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "19.00\" wide 1.75\" high 16.00\" deep (483 mm X 44 mm 406 mm)",
+   "quantities": [
+    {
+     "value": 19,
+     "unit": "\""
+    },
+    {
+     "value": 1.75,
+     "unit": "\""
+    },
+    {
+     "value": 16,
+     "unit": "\""
+    },
+    {
+     "value": 483,
+     "unit": "mm"
+    },
+    {
+     "value": 44,
+     "unit": "mm"
+    },
+    {
+     "value": 406,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "10 Ibs 0z (4.7 kg).",
+   "quantities": [
+    {
+     "value": 4.7,
+     "unit": "kg"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1985 - M5200A - 002.pdf",
+   "page": 5
+  },
+  {
+   "file": "MANUALS/1985 - M5200A - 004.jpg",
+   "page": 1
+  },
+  {
+   "file": "MANUALS/1985 - M5200A - 004 (2).jpg",
+   "page": 1
+  }
+ ]
+}

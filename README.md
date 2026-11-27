@@ -13,6 +13,38 @@ Ward-Beck Systems M5200A, 1985|18. Wiki page: [M5200A on WBSps.ca](https://wardb
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 16 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 158 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1985 - M5200A - WBS M5200A_Page_05.jpg](MANUALS/1985%20-%20M5200A%20-%20WBS%20M5200A_Page_05.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Memory** | EPROM: NMC2732 (4K EEPROM: X2816 (2K RAM: NM2I16 (2K 8 8) 8) |
+| **Logic levels** | Standard volt HC series Levels. Logic 1: 3.5V min 20 MA source. Logic 0: 1V max 20 mA sink. Clock Frequency mHz crystal +/-.003%. |
+| **Status indication** | Seven segment display |
+| **Power requirements** | 10/12 volts dc, unregulated, 0.5 amp |
+| **Circuit protection** | 1.5 amp circuit breaker, current limiting regulators and overvoltage protecting zener diode. |
+| **Discrete control inputs** | Opto-isolators maybe strapped for or 12 to 24 volt operation Discrete control outputs Dry relay contacts 24V dc at 50 ma max. |
+| **Ambient temperature** | to 60 degrees celsius |
+| **Dimensions** | 19.00&quot; wide 1.75&quot; high 16.00&quot; deep (483 mm X 44 mm 406 mm) |
+| **Weight** | 10 Ibs 0z (4.7 kg). |
+
+## Circuit description
+
+From [1985 - M5200A - 018 (2).jpg](MANUALS/1985%20-%20M5200A%20-%20018%20(2).jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**SA14-094 CONTROLLER ASSEMBLY**
+
+Each data port appears on 37 pin 'D' female connector at the rear of the m5200 series of controller Latch u27 along ith the oscillator composed of three sections of 428, R78, R79, C18 and C19, form Real Time clock which maybe used for timing various software system functions The status of this clock is fed to bit #0 of buffer u24. For present applications in the ST series of Stereo Television consoles this function iS not utilized Internal Bus Buffers The option bi-directional transceiver buffers u35, u36 and 437 feed the internal bit data bus, 12 bits of addressing as well as control Line functions NRD, NWR and address select 4800H to data connector P9. Power_Supply_ Decoupl ing The unregulated 10/12 volt dc supply is fed into the MS2OOA via P10 SwI is 1.5 amp breaker switch. This data access is for expansion capabilities and provides of direct memory access into and out of the control system. means The cathode of pol, parity reversing diode CRS connects to the 5volt regulator u38 and the constant current charging circuit (Q1 and 02) for the nickel cadmium battery BI Presently this feature is not utilized in the St series of Stereo Television consoles. The output voltage from regulator 438 is set by R131 _ R132 and The regulated supply voltage should be between 5.0 and 5.5 Ro3ss Czk is time of day clock chip that drives the optional clock and timer displays. The clock is crystal controlled by Xt2 (32.768 kHz) The optional clock is under complete software control. L Zener diode CR6 is backup protection in the event regulator 438 shouId fail, Placing 12 volts on the supply rail _ Under normal conditions this zener diode is not conducting The regulated volt supply voltage, when present feeds the IC ' s which are powered by the backup battery through Schottky diode CR8. Block ing transistor 03 is reverse biased and off when the supply voltage is present _ Upon the occurance of power failure 03 will turn on, provided the base is grounded through the battery backup strap on power connector P10 (pins 15 and 7). The 3.6 volt battery voltage will be applied to IC 's U10, U14, U15,416,426,430, u32 and 433_ Under these conditions CR8 now blocks the backup voltage from the remainder of the circuitry (CR8 is now reverse biased) Under normal operating conditions battery B1 is under constant current trickle charge through 01 and 02 Battery B1 will feed the above mentioned circuitry anytime the supply voltage is off and power plug P10 is not removed_ No damage wili occur if the battery is allowed to completely discharge _ Breaker switch Sw2 feeds the volt supply voltage to the other assemblies within the M52OOA _ Status_Display readout display on the front of the MS2OOA seven segment (part of the SA14-096 Subassembly) provides an indication of the processor operation. Latch u25 stores the data bits, which in turn determines the of the status display that are illuminated. As the segments system executes different routines of the operating system software various segments are illuminated, giving somewhat of visual indication of the system operation. ' Section 11, 12 and 13 of u29 performs an AND gate select function between address select 7FOOH and the NWR control output from the microprocessor Miscellaneous u24 is an bit buffer which is available for feeding unitary status inputs into the system. Presently input bit #4 reads the status of the fai Latch. This buffer is addressed by select code power 7DOOH.
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
