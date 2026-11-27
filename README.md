@@ -1,16 +1,16 @@
-# M5200A · Input Pre Amps
+# M5200A Controller Module · Input Pre Amps
 
 Ward-Beck Systems M5200A, 1985|18. Wiki page: [M5200A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M5200A.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 60 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 7 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 268 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 16 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 61 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 28 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 269 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 17 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 158 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -54,14 +54,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 </table>
 
 Shared privately on Google Drive (opens after sign-in): [1985|18 · B 5200-04-002 - CONTROLLER MODULE - MODULE LAYOUT](https://drive.google.com/file/d/0B0yR0b5T78SKY0dPSnFTY2JNSGM/view?resourcekey=0-cypWmVgWGiibl3K919HmUw)
-
-## 3-D model
-
-[`MECHANICAL/M5200A.stl`](MECHANICAL/M5200A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M5200A)
-
-- **Size:** 483 × 44 mm panel, 406 mm deep, 3.2 mm plate (TECHNICAL DATA: 19.00" wide 1.75" high 16.00" deep (483 mm X 44 mm 406 mm))
-- **From the drawing:** 4 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M5200A - front panel.svg`)
-- Made by `tools/module_models.py` (→ `MECHANICAL/M5200A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -280,6 +272,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1985 - M5200A - B 14-123-02-001 - SA14-123 INTERFACE ASSEMBLY - SCHEMATIC.kicad_sch](KICAD/1985%20-%20M5200A%20-%20B%2014-123-02-001%20-%20SA14-123%20INTERFACE%20ASSEMBLY%20-%20SCHEMATIC.kicad_sch)
 - [1985 - M5200A - B 14-123-02-002 - SA14-123 INTERFACE ASSEMBLY - SCHEMATIC.kicad_sch](KICAD/1985%20-%20M5200A%20-%20B%2014-123-02-002%20-%20SA14-123%20INTERFACE%20ASSEMBLY%20-%20SCHEMATIC.kicad_sch)
 - [M5200A.kicad_sym](KICAD/M5200A.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
