@@ -1,5 +1,5 @@
 # 19xx - M5200A - Typical M5200A System Interconnect for ST Series Consoles.jpg
-Wiki page: [M5200A](../../../../PAGES/M5200A.md)
+Wiki page: [M5200A](../)
 
 
 - **Year:** unknown (title block (read by eye))

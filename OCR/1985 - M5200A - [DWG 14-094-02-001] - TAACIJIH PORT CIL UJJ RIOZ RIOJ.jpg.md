@@ -1,5 +1,5 @@
 # 1985 - M5200A - 14-094-02-001 - TAACIJIH PORT CIL UJJ RIOZ RIOJ.jpg
-Wiki page: [M5200A](../../../../PAGES/M5200A.md)
+Wiki page: [M5200A](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))

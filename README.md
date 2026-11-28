@@ -1,6 +1,6 @@
 # M5200A Controller Module · Input Pre Amps
 
-Ward-Beck Systems M5200A, 1985|18. Wiki page: [M5200A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M5200A.html)
+Ward-Beck Systems M5200A, 1985|18. Wiki page: [M5200A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M5200A-Controller-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

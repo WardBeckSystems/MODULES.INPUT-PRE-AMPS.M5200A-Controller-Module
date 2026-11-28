@@ -1,5 +1,5 @@
 # 1985 - M5200A - 5200-04-002 - CONTROLLER MODULE MODULE LAYOUT.jpg
-Wiki page: [M5200A](../../../../PAGES/M5200A.md)
+Wiki page: [M5200A](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))

@@ -1,5 +1,5 @@
 # 19xx - M5200A - Connector Layout M5200A Controller Module (3).jpg
-Wiki page: [M5200A](../../../../PAGES/M5200A.md)
+Wiki page: [M5200A](../)
 
 
 - **Year:** unknown (title block (read by eye))

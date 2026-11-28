@@ -1,5 +1,5 @@
 # 19xx - M5200A - M5200A SYSTEM INTERCONNECT FOR ST2442 AND ST3642 CONSOLES (2).jpg
-Wiki page: [M5200A](../../../../PAGES/M5200A.md)
+Wiki page: [M5200A](../)
 
 
 - **Year:** unknown (title block (read by eye))
