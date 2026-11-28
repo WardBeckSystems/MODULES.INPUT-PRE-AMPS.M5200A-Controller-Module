@@ -1,0 +1,459 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 2624" font-family="Overpass Mono, ui-monospace, monospace">
+<title>M5200A: M5200A Controller Module (Input-Pre-Amps), Ward-Beck Systems. Pinout from RTO.json.</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="240.8" y="245.2" width="508.0" height="2133.6" fill="#E6F2E6" stroke="#2E6B34" stroke-width="2.5"/>
+<line x1="164.6" y1="372.2" x2="240.8" y2="372.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="372.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="372.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-1-+</text>
+<text x="202.7" y="368.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-20</text>
+<line x1="164.6" y1="397.6" x2="240.8" y2="397.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="397.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="397.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-1-</text>
+<text x="202.7" y="393.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-1</text>
+<line x1="164.6" y1="448.4" x2="240.8" y2="448.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="448.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="448.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-2-+</text>
+<text x="202.7" y="444.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-21</text>
+<line x1="164.6" y1="473.8" x2="240.8" y2="473.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="473.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="473.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-2-</text>
+<text x="202.7" y="469.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-2</text>
+<line x1="164.6" y1="524.6" x2="240.8" y2="524.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="524.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="524.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-3-+</text>
+<text x="202.7" y="520.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-22</text>
+<line x1="164.6" y1="550.0" x2="240.8" y2="550.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="550.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="550.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-3-</text>
+<text x="202.7" y="546.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-3</text>
+<line x1="164.6" y1="600.8" x2="240.8" y2="600.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="600.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="600.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-4-+</text>
+<text x="202.7" y="596.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-23</text>
+<line x1="164.6" y1="626.2" x2="240.8" y2="626.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="626.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="626.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-4-</text>
+<text x="202.7" y="622.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-4</text>
+<line x1="164.6" y1="677.0" x2="240.8" y2="677.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="677.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="677.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-5-+</text>
+<text x="202.7" y="673.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-24</text>
+<line x1="164.6" y1="702.4" x2="240.8" y2="702.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="702.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="702.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-5-</text>
+<text x="202.7" y="698.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-5</text>
+<line x1="164.6" y1="753.2" x2="240.8" y2="753.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="753.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="753.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-6-+</text>
+<text x="202.7" y="749.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-25</text>
+<line x1="164.6" y1="778.6" x2="240.8" y2="778.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="778.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="778.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-6-</text>
+<text x="202.7" y="774.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-6</text>
+<line x1="164.6" y1="829.4" x2="240.8" y2="829.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="829.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="829.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-7-+</text>
+<text x="202.7" y="825.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-26</text>
+<line x1="164.6" y1="854.8" x2="240.8" y2="854.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="854.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="854.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-7-</text>
+<text x="202.7" y="850.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-7</text>
+<line x1="164.6" y1="905.6" x2="240.8" y2="905.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="905.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="905.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-8-+</text>
+<text x="202.7" y="901.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-27</text>
+<line x1="164.6" y1="931.0" x2="240.8" y2="931.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="931.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="931.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-8-</text>
+<text x="202.7" y="927.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-8</text>
+<line x1="164.6" y1="981.8" x2="240.8" y2="981.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="981.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="981.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-9-+</text>
+<text x="202.7" y="977.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-28</text>
+<line x1="164.6" y1="1007.2" x2="240.8" y2="1007.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1007.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1007.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-9-</text>
+<text x="202.7" y="1003.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-9</text>
+<line x1="164.6" y1="1058.0" x2="240.8" y2="1058.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1058.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1058.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-10-+</text>
+<text x="202.7" y="1054.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-29</text>
+<line x1="164.6" y1="1083.4" x2="240.8" y2="1083.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1083.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1083.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-10-</text>
+<text x="202.7" y="1079.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-10</text>
+<line x1="164.6" y1="1134.2" x2="240.8" y2="1134.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1134.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1134.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-11-+</text>
+<text x="202.7" y="1130.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-30</text>
+<line x1="164.6" y1="1159.6" x2="240.8" y2="1159.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1159.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1159.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-11-</text>
+<text x="202.7" y="1155.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-11</text>
+<line x1="164.6" y1="1210.4" x2="240.8" y2="1210.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1210.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1210.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-12-+</text>
+<text x="202.7" y="1206.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-31</text>
+<line x1="164.6" y1="1235.8" x2="240.8" y2="1235.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1235.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1235.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-12-</text>
+<text x="202.7" y="1231.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-12</text>
+<line x1="164.6" y1="1286.6" x2="240.8" y2="1286.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1286.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1286.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-13-+</text>
+<text x="202.7" y="1282.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-32</text>
+<line x1="164.6" y1="1312.0" x2="240.8" y2="1312.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1312.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1312.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-13-</text>
+<text x="202.7" y="1308.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-13</text>
+<line x1="164.6" y1="1362.8" x2="240.8" y2="1362.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1362.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1362.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-14-+</text>
+<text x="202.7" y="1358.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-33</text>
+<line x1="164.6" y1="1388.2" x2="240.8" y2="1388.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1388.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1388.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-14-</text>
+<text x="202.7" y="1384.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-14</text>
+<line x1="164.6" y1="1439.0" x2="240.8" y2="1439.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1439.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1439.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-15-+</text>
+<text x="202.7" y="1435.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-34</text>
+<line x1="164.6" y1="1464.4" x2="240.8" y2="1464.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1464.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1464.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-15-</text>
+<text x="202.7" y="1460.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-15</text>
+<line x1="164.6" y1="1515.2" x2="240.8" y2="1515.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1515.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1515.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-16-+</text>
+<text x="202.7" y="1511.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-35</text>
+<line x1="164.6" y1="1540.6" x2="240.8" y2="1540.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="164.6" cy="1540.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="248.4" y="1540.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">EXTERNAL-INPUT-16-</text>
+<text x="202.7" y="1536.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J7-16</text>
+<line x1="164.6" y1="1591.4" x2="240.8" y2="1591.4" stroke="#555555" stroke-width="2"/>
+<circle cx="164.6" cy="1591.4" r="3" fill="#fff" stroke="#555555" stroke-width="1.5"/>
+<text x="248.4" y="1591.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">BATTERY-STRAP-A</text>
+<text x="202.7" y="1587.4" font-size="10" text-anchor="middle" fill="#555555">P10-7</text>
+<line x1="164.6" y1="1616.8" x2="240.8" y2="1616.8" stroke="#555555" stroke-width="2"/>
+<circle cx="164.6" cy="1616.8" r="3" fill="#fff" stroke="#555555" stroke-width="1.5"/>
+<text x="248.4" y="1616.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">BATTERY-STRAP-B</text>
+<text x="202.7" y="1612.8" font-size="10" text-anchor="middle" fill="#555555">P10-15</text>
+<line x1="164.6" y1="1667.6" x2="240.8" y2="1667.6" stroke="#555555" stroke-width="2"/>
+<circle cx="164.6" cy="1667.6" r="3" fill="#fff" stroke="#555555" stroke-width="1.5"/>
+<text x="248.4" y="1667.6" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">SPARE-A</text>
+<text x="202.7" y="1663.6" font-size="10" text-anchor="middle" fill="#555555">J8-18</text>
+<line x1="164.6" y1="1693.0" x2="240.8" y2="1693.0" stroke="#555555" stroke-width="2"/>
+<circle cx="164.6" cy="1693.0" r="3" fill="#fff" stroke="#555555" stroke-width="1.5"/>
+<text x="248.4" y="1693.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">SPARE-B</text>
+<text x="202.7" y="1689.0" font-size="10" text-anchor="middle" fill="#555555">J8-19</text>
+<line x1="825.0" y1="372.2" x2="748.8" y2="372.2" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="372.2" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="372.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-B-6</text>
+<text x="786.9" y="368.2" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-10</text>
+<line x1="825.0" y1="397.6" x2="748.8" y2="397.6" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="397.6" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="397.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-B-4</text>
+<text x="786.9" y="393.6" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-11</text>
+<line x1="825.0" y1="423.0" x2="748.8" y2="423.0" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="423.0" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="423.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-B-2</text>
+<text x="786.9" y="419.0" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-12</text>
+<line x1="825.0" y1="448.4" x2="748.8" y2="448.4" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="448.4" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="448.4" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-B-0</text>
+<text x="786.9" y="444.4" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-13</text>
+<line x1="825.0" y1="473.8" x2="748.8" y2="473.8" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="473.8" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="473.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-B-7</text>
+<text x="786.9" y="469.8" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-28</text>
+<line x1="825.0" y1="499.2" x2="748.8" y2="499.2" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="499.2" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="499.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-B-5</text>
+<text x="786.9" y="495.2" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-29</text>
+<line x1="825.0" y1="524.6" x2="748.8" y2="524.6" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="524.6" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="524.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-B-3</text>
+<text x="786.9" y="520.6" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-30</text>
+<line x1="825.0" y1="550.0" x2="748.8" y2="550.0" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="550.0" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="550.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-B-1</text>
+<text x="786.9" y="546.0" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-31</text>
+<line x1="825.0" y1="600.8" x2="748.8" y2="600.8" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="600.8" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="600.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-A-6</text>
+<text x="786.9" y="596.8" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-15</text>
+<line x1="825.0" y1="626.2" x2="748.8" y2="626.2" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="626.2" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="626.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-A-4</text>
+<text x="786.9" y="622.2" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-16</text>
+<line x1="825.0" y1="651.6" x2="748.8" y2="651.6" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="651.6" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="651.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-A-2</text>
+<text x="786.9" y="647.6" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-17</text>
+<line x1="825.0" y1="677.0" x2="748.8" y2="677.0" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="677.0" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="677.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-A-0</text>
+<text x="786.9" y="673.0" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-18</text>
+<line x1="825.0" y1="702.4" x2="748.8" y2="702.4" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="702.4" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="702.4" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-A-7</text>
+<text x="786.9" y="698.4" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-33</text>
+<line x1="825.0" y1="727.8" x2="748.8" y2="727.8" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="727.8" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="727.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-A-5</text>
+<text x="786.9" y="723.8" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-34</text>
+<line x1="825.0" y1="753.2" x2="748.8" y2="753.2" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="753.2" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="753.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-A-3</text>
+<text x="786.9" y="749.2" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-35</text>
+<line x1="825.0" y1="778.6" x2="748.8" y2="778.6" stroke="#1F5F8B" stroke-width="2"/>
+<circle cx="825.0" cy="778.6" r="3" fill="#fff" stroke="#1F5F8B" stroke-width="1.5"/>
+<text x="741.2" y="778.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">DATA-A-1</text>
+<text x="786.9" y="774.6" font-size="10" text-anchor="middle" fill="#1F5F8B">J1-36</text>
+<line x1="825.0" y1="829.4" x2="748.8" y2="829.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="829.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="829.4" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-1-A</text>
+<text x="786.9" y="825.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-1</text>
+<line x1="825.0" y1="854.8" x2="748.8" y2="854.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="854.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="854.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-1-B</text>
+<text x="786.9" y="850.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-20</text>
+<line x1="825.0" y1="905.6" x2="748.8" y2="905.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="905.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="905.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-2-A</text>
+<text x="786.9" y="901.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-2</text>
+<line x1="825.0" y1="931.0" x2="748.8" y2="931.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="931.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="931.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-2-B</text>
+<text x="786.9" y="927.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-21</text>
+<line x1="825.0" y1="981.8" x2="748.8" y2="981.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="981.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="981.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-3-A</text>
+<text x="786.9" y="977.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-3</text>
+<line x1="825.0" y1="1007.2" x2="748.8" y2="1007.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1007.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1007.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-3-B</text>
+<text x="786.9" y="1003.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-22</text>
+<line x1="825.0" y1="1058.0" x2="748.8" y2="1058.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1058.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1058.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-4-A</text>
+<text x="786.9" y="1054.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-4</text>
+<line x1="825.0" y1="1083.4" x2="748.8" y2="1083.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1083.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1083.4" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-4-B</text>
+<text x="786.9" y="1079.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-23</text>
+<line x1="825.0" y1="1134.2" x2="748.8" y2="1134.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1134.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1134.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">SELECT-STROBE-3</text>
+<text x="786.9" y="1130.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J1-5</text>
+<line x1="825.0" y1="1159.6" x2="748.8" y2="1159.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1159.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1159.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">SELECT-STROBE-1</text>
+<text x="786.9" y="1155.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J1-6</text>
+<line x1="825.0" y1="1185.0" x2="748.8" y2="1185.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1185.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1185.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">NALE5</text>
+<text x="786.9" y="1181.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J1-7</text>
+<line x1="825.0" y1="1210.4" x2="748.8" y2="1210.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1210.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1210.4" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">NRD</text>
+<text x="786.9" y="1206.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J1-8</text>
+<line x1="825.0" y1="1235.8" x2="748.8" y2="1235.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1235.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1235.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">SELECT-STROBE-4</text>
+<text x="786.9" y="1231.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J1-23</text>
+<line x1="825.0" y1="1261.2" x2="748.8" y2="1261.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1261.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1261.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">SELECT-STROBE-2</text>
+<text x="786.9" y="1257.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J1-24</text>
+<line x1="825.0" y1="1286.6" x2="748.8" y2="1286.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1286.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1286.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">SELECT-STROBE-0</text>
+<text x="786.9" y="1282.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J1-25</text>
+<line x1="825.0" y1="1312.0" x2="748.8" y2="1312.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1312.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1312.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">NWR</text>
+<text x="786.9" y="1308.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J1-26</text>
+<line x1="825.0" y1="1362.8" x2="748.8" y2="1362.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1362.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1362.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-5-A</text>
+<text x="786.9" y="1358.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-5</text>
+<line x1="825.0" y1="1388.2" x2="748.8" y2="1388.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1388.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1388.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-5-B</text>
+<text x="786.9" y="1384.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-24</text>
+<line x1="825.0" y1="1439.0" x2="748.8" y2="1439.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1439.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1439.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-6-A</text>
+<text x="786.9" y="1435.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-6</text>
+<line x1="825.0" y1="1464.4" x2="748.8" y2="1464.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1464.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1464.4" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-6-B</text>
+<text x="786.9" y="1460.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-25</text>
+<line x1="825.0" y1="1515.2" x2="748.8" y2="1515.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1515.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1515.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-7-A</text>
+<text x="786.9" y="1511.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-7</text>
+<line x1="825.0" y1="1540.6" x2="748.8" y2="1540.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1540.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1540.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-7-B</text>
+<text x="786.9" y="1536.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-26</text>
+<line x1="825.0" y1="1591.4" x2="748.8" y2="1591.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1591.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1591.4" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-8-A</text>
+<text x="786.9" y="1587.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-8</text>
+<line x1="825.0" y1="1616.8" x2="748.8" y2="1616.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1616.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1616.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MUTE-CONTROL-8-B</text>
+<text x="786.9" y="1612.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-27</text>
+<line x1="825.0" y1="1667.6" x2="748.8" y2="1667.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1667.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1667.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-1-A</text>
+<text x="786.9" y="1663.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-9</text>
+<line x1="825.0" y1="1693.0" x2="748.8" y2="1693.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1693.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1693.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-1-B</text>
+<text x="786.9" y="1689.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-28</text>
+<line x1="825.0" y1="1743.8" x2="748.8" y2="1743.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1743.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1743.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-2-A</text>
+<text x="786.9" y="1739.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-10</text>
+<line x1="825.0" y1="1769.2" x2="748.8" y2="1769.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1769.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1769.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-2-B</text>
+<text x="786.9" y="1765.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-29</text>
+<line x1="825.0" y1="1820.0" x2="748.8" y2="1820.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1820.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1820.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-3-A</text>
+<text x="786.9" y="1816.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-11</text>
+<line x1="825.0" y1="1845.4" x2="748.8" y2="1845.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1845.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1845.4" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-3-B</text>
+<text x="786.9" y="1841.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-30</text>
+<line x1="825.0" y1="1896.2" x2="748.8" y2="1896.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1896.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1896.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-4-A</text>
+<text x="786.9" y="1892.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-12</text>
+<line x1="825.0" y1="1921.6" x2="748.8" y2="1921.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1921.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1921.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-4-B</text>
+<text x="786.9" y="1917.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-31</text>
+<line x1="825.0" y1="1972.4" x2="748.8" y2="1972.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1972.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1972.4" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-5-A</text>
+<text x="786.9" y="1968.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-13</text>
+<line x1="825.0" y1="1997.8" x2="748.8" y2="1997.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="1997.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="1997.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-5-B</text>
+<text x="786.9" y="1993.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-32</text>
+<line x1="825.0" y1="2048.6" x2="748.8" y2="2048.6" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="2048.6" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="2048.6" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-6-A</text>
+<text x="786.9" y="2044.6" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-14</text>
+<line x1="825.0" y1="2074.0" x2="748.8" y2="2074.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="2074.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="2074.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-6-B</text>
+<text x="786.9" y="2070.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-33</text>
+<line x1="825.0" y1="2124.8" x2="748.8" y2="2124.8" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="2124.8" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="2124.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-7-A</text>
+<text x="786.9" y="2120.8" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-15</text>
+<line x1="825.0" y1="2150.2" x2="748.8" y2="2150.2" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="2150.2" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="2150.2" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-7-B</text>
+<text x="786.9" y="2146.2" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-34</text>
+<line x1="825.0" y1="2201.0" x2="748.8" y2="2201.0" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="2201.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="2201.0" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-8-A</text>
+<text x="786.9" y="2197.0" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-16</text>
+<line x1="825.0" y1="2226.4" x2="748.8" y2="2226.4" stroke="#7A4E2A" stroke-width="2"/>
+<circle cx="825.0" cy="2226.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
+<text x="741.2" y="2226.4" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c">MACHINE-CONTROL-8-B</text>
+<text x="786.9" y="2222.4" font-size="10" text-anchor="middle" fill="#7A4E2A">J8-35</text>
+<line x1="444.0" y1="169.0" x2="444.0" y2="245.2" stroke="#A52A22" stroke-width="2"/>
+<circle cx="444.0" cy="169.0" r="3" fill="#fff" stroke="#A52A22" stroke-width="1.5"/>
+<text x="444.0" y="252.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c" transform="rotate(-90 444.0 252.8)">+10/12V</text>
+<text x="440.0" y="207.1" font-size="10" text-anchor="middle" fill="#A52A22" transform="rotate(-90 440.0 207.1)">P10-1</text>
+<line x1="469.4" y1="169.0" x2="469.4" y2="245.2" stroke="#A52A22" stroke-width="2"/>
+<circle cx="469.4" cy="169.0" r="3" fill="#fff" stroke="#A52A22" stroke-width="1.5"/>
+<text x="469.4" y="252.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c" transform="rotate(-90 469.4 252.8)">+10/12V</text>
+<text x="465.4" y="207.1" font-size="10" text-anchor="middle" fill="#A52A22" transform="rotate(-90 465.4 207.1)">P10-2</text>
+<line x1="494.8" y1="169.0" x2="494.8" y2="245.2" stroke="#A52A22" stroke-width="2"/>
+<circle cx="494.8" cy="169.0" r="3" fill="#fff" stroke="#A52A22" stroke-width="1.5"/>
+<text x="494.8" y="252.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c" transform="rotate(-90 494.8 252.8)">+10/12V</text>
+<text x="490.8" y="207.1" font-size="10" text-anchor="middle" fill="#A52A22" transform="rotate(-90 490.8 207.1)">P10-9</text>
+<line x1="520.2" y1="169.0" x2="520.2" y2="245.2" stroke="#A52A22" stroke-width="2"/>
+<circle cx="520.2" cy="169.0" r="3" fill="#fff" stroke="#A52A22" stroke-width="1.5"/>
+<text x="520.2" y="252.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c" transform="rotate(-90 520.2 252.8)">+5V</text>
+<text x="516.2" y="207.1" font-size="10" text-anchor="middle" fill="#A52A22" transform="rotate(-90 516.2 207.1)">J7-18</text>
+<line x1="545.6" y1="169.0" x2="545.6" y2="245.2" stroke="#A52A22" stroke-width="2"/>
+<circle cx="545.6" cy="169.0" r="3" fill="#fff" stroke="#A52A22" stroke-width="1.5"/>
+<text x="545.6" y="252.8" font-size="12.7" dominant-baseline="middle" text-anchor="end" fill="#1f1e1c" transform="rotate(-90 545.6 252.8)">+5V</text>
+<text x="541.6" y="207.1" font-size="10" text-anchor="middle" fill="#A52A22" transform="rotate(-90 541.6 207.1)">J7-19</text>
+<line x1="291.6" y1="2455.0" x2="291.6" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="291.6" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="291.6" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 291.6 2371.2)">CHASSIS</text>
+<text x="287.6" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 287.6 2416.9)">P10-8</text>
+<line x1="317.0" y1="2455.0" x2="317.0" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="317.0" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="317.0" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 317.0 2371.2)">COM</text>
+<text x="313.0" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 313.0 2416.9)">J1-1</text>
+<line x1="342.4" y1="2455.0" x2="342.4" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="342.4" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="342.4" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 342.4 2371.2)">COM</text>
+<text x="338.4" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 338.4 2416.9)">J1-9</text>
+<line x1="393.2" y1="2455.0" x2="393.2" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="393.2" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="393.2" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 393.2 2371.2)">COM</text>
+<text x="389.2" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 389.2 2416.9)">J1-14</text>
+<line x1="393.2" y1="2455.0" x2="393.2" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="393.2" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="393.2" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 393.2 2371.2)">COM</text>
+<text x="389.2" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 389.2 2416.9)">J1-19</text>
+<line x1="418.6" y1="2455.0" x2="418.6" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="418.6" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="418.6" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 418.6 2371.2)">COM</text>
+<text x="414.6" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 414.6 2416.9)">J1-20</text>
+<line x1="444.0" y1="2455.0" x2="444.0" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="444.0" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="444.0" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 444.0 2371.2)">COM</text>
+<text x="440.0" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 440.0 2416.9)">J1-27</text>
+<line x1="494.8" y1="2455.0" x2="494.8" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="494.8" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="494.8" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 494.8 2371.2)">COM</text>
+<text x="490.8" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 490.8 2416.9)">J1-32</text>
+<line x1="494.8" y1="2455.0" x2="494.8" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="494.8" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="494.8" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 494.8 2371.2)">COM</text>
+<text x="490.8" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 490.8 2416.9)">J1-37</text>
+<line x1="520.2" y1="2455.0" x2="520.2" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="520.2" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="520.2" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 520.2 2371.2)">COM</text>
+<text x="516.2" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 516.2 2416.9)">J7-36</text>
+<line x1="545.6" y1="2455.0" x2="545.6" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="545.6" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="545.6" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 545.6 2371.2)">COM</text>
+<text x="541.6" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 541.6 2416.9)">J7-37</text>
+<line x1="596.4" y1="2455.0" x2="596.4" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="596.4" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="596.4" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 596.4 2371.2)">COM</text>
+<text x="592.4" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 592.4 2416.9)">J8-36</text>
+<line x1="596.4" y1="2455.0" x2="596.4" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="596.4" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="596.4" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 596.4 2371.2)">COM</text>
+<text x="592.4" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 592.4 2416.9)">J8-37</text>
+<line x1="647.2" y1="2455.0" x2="647.2" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="647.2" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="647.2" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 647.2 2371.2)">CTL-COM</text>
+<text x="643.2" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 643.2 2416.9)">P10-3</text>
+<line x1="672.6" y1="2455.0" x2="672.6" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="672.6" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="672.6" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 672.6 2371.2)">CTL-COM</text>
+<text x="668.6" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 668.6 2416.9)">P10-4</text>
+<line x1="698.0" y1="2455.0" x2="698.0" y2="2378.8" stroke="#333333" stroke-width="2"/>
+<circle cx="698.0" cy="2455.0" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
+<text x="698.0" y="2371.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 698.0 2371.2)">CTL-COM</text>
+<text x="694.0" y="2416.9" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 694.0 2416.9)">P10-11</text>
+<text x="494.8" y="101.6" font-size="14" font-weight="700" text-anchor="middle" fill="#2E6B34">M5200A</text>
+<text x="494.8" y="2522.4" font-size="11" text-anchor="middle" fill="#6d6a63">Input-Pre-Amps · RTO-144 · Ward-Beck Systems</text>
+</svg>
